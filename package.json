@@ -1,0 +1,44 @@
+{
+  "name": "webvr-crawler",
+  "description": "Search for WebVR content.",
+  "version": "1.0.0",
+  "license": "CC0-1.0",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/webvrrocks/webvr-search.git"
+  },
+  "bugs": {
+    "url": "https://github.com/webvrrocks/webvr-search/issues"
+  },
+  "dependencies": {
+    "cross-env": "^4.0.0",
+    "deep-assign": "^2.0.0",
+    "elasticlunr": "^0.9.5",
+    "micro": "^7.3.1",
+    "micro-api": "^0.1.6",
+    "shx": "^0.2.2",
+    "winston": "^2.3.1"
+  },
+  "devDependencies": {
+    "body-parser": "^1.17.1",
+    "cors": "^2.8.3",
+    "express": "^4.15.2",
+    "json": "^9.0.6",
+    "nodemon": "^1.11.0",
+    "semistandard": "^9.2.1",
+    "shx": "^0.2.2",
+    "snazzy": "^6.0.0"
+  },
+  "scripts": {
+    "start": "npm run dev",
+    "dev": "cross-env NODE_ENV=development nodemon index.js",
+    "prod": "cross-env NODE_ENV=production node index.js",
+    "clean": "shx rm -rf logs"
+  },
+  "semistandard": {
+    "ignore": []
+  },
+  "homepage": "https://github.com/webvrrocks/webvr-search#readme",
+  "author": "Chris Van Wiemeersch"
+}

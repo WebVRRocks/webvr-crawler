@@ -1,0 +1,11 @@
+{"url": "https://aframe.io/a-painter/", "type": "success", "message": "Works well!"}
+{"url": "https://aframe.io/a-blast/", "type": "failure", "message": "Looks outstanding. But it doesn't work on my Google Daydream (with Chrome Canary on my Google Pixel phone)."}
+{"url": "https://aframe.io/a-painter/", "type": "success", "message": "Works well!"}
+{"url": "https://aframe.io/a-painter/", "type": "success", "message": "Outstanding!"}
+{"url": "https://aframe.io/a-painter/", "type": "success", "message": "Perfect!"}
+{"url": "https://aframe.io/a-painter/", "type": "success", "message": "works okay"}
+{"url": "https://aframe.io/a-painter/", "type": "success", "message": "it's fine"}
+{"url": "https://aframe.io/a-painter/", "type": "success", "message": "worked well for me"}
+{"url": "https://aframe.io/a-painter/", "type": "success", "message": "I had a lot of fun. thanks!"}
+{"url": "https://aframe.io/a-painter/", "type": "failure", "message": "I couldn't paint on mobile Cardboard."}
+{"url": "https://aframe.io/a-blast/", "type": "success", "message": "Worked well on my Vive."}

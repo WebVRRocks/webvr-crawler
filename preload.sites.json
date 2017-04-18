@@ -1,0 +1,4915 @@
+[
+  {
+    "id": "rec0CYrvL2JbY3zW9",
+    "fields": {
+      "name": "A Way to Go",
+      "url": "http://a-way-to-go.com",
+      "description": "Way to Go is a walk in the woods. It is an astonishing interactive experience, a restless panorama, a mixture of hand-made animation, 360˚ video capture, music, dreaming, and code; but, mostly it is a walk in the woods, c'mon. Created by Vincent Morisset, Philippe Lambert, Édouard Lanctôt-Benoit & Caroline Robert (AATOAA). Produced by the NFB & France TV.",
+      "authors": [
+        "recAGoZg6hafndkgq",
+        "recqQFkKm6UVNSDJJ",
+        "rechU7K7WYjuRku4W",
+        "rec16N1ozNwJtbePD"
+      ],
+      "tags": [
+        "experiment",
+        "film",
+        "story",
+        "music",
+        "audio"
+      ],
+      "source_code_url": "http://a-way-to-go.com/epk/",
+      "screenshots": [
+        {
+          "id": "att4bVpeA7fTt0IEA",
+          "url": "https://dl.airtable.com/M9uWQKGSeDr1AY8V6w8Z_CRobert_PLambert_ELanctot_VMorisset_by_JonathanBrisebois.jpg",
+          "filename": "CRobert_PLambert_ELanctot_VMorisset_by_JonathanBrisebois.jpg",
+          "size": 155060,
+          "type": "image/jpeg",
+          "thumbnails": {
+            "small": {
+              "url": "https://dl.airtable.com/MrcV0GdpT6uUDc4RryjF_small_CRobert_PLambert_ELanctot_VMorisset_by_JonathanBrisebois.jpg",
+              "width": 54,
+              "height": 36
+            },
+            "large": {
+              "url": "https://dl.airtable.com/axcKZbVXShSGZiB98BJH_large_CRobert_PLambert_ELanctot_VMorisset_by_JonathanBrisebois.jpg",
+              "width": 512,
+              "height": 400
+            }
+          }
+        },
+        {
+          "id": "attw2B9J1maiyVDwR",
+          "url": "https://dl.airtable.com/39uYgmpsR6qIYtK6j23V_waytogo_header_epk.jpg",
+          "filename": "waytogo_header_epk.jpg",
+          "size": 25314,
+          "type": "image/jpeg",
+          "thumbnails": {
+            "small": {
+              "url": "https://dl.airtable.com/rcij9WwyQbCK9GXgaKjC_small_waytogo_header_epk.jpg",
+              "width": 138,
+              "height": 36
+            },
+            "large": {
+              "url": "https://dl.airtable.com/Y3WWeKFtTqmqIfJYTtfD_large_waytogo_header_epk.jpg",
+              "width": 512,
+              "height": 260
+            }
+          }
+        },
+        {
+          "id": "attGqyp4ZNg07FxOo",
+          "url": "https://dl.airtable.com/csvJTRLAS0ycAYtGrDSZ_waytogo.png",
+          "filename": "waytogo.png",
+          "size": 504773,
+          "type": "image/png",
+          "thumbnails": {
+            "small": {
+              "url": "https://dl.airtable.com/tUBfZ3ioSFyzaUfdLA3p_small_waytogo.png",
+              "width": 69,
+              "height": 36
+            },
+            "large": {
+              "url": "https://dl.airtable.com/JkF1IKZPRcqDeAOQne6c_large_waytogo.png",
+              "width": 512,
+              "height": 512
+            }
+          }
+        }
+      ],
+      "case_study_or_landing_page_urls": "http://jusqu-ici.com/\nhttp://www.scoop.it/u/way-to-go/curated-scoops",
+      "videos": [
+        {
+          "id": "attE3UlFAJ18aogI6",
+          "url": "https://dl.airtable.com/pBPXzP1gTdC8KRcdr6eF_Way%20to%20Go%20(Trailer).mp4",
+          "filename": "Way to Go (Trailer).mp4",
+          "size": 24595756,
+          "type": "video/mp4"
+        }
+      ],
+      "video_urls": "https://vimeo.com/118728100",
+      "notes": "Way to Go is an interactive experience for human beings between 5 and 105 years old. Maybe it lasts six minutes; maybe it lasts forever. Way to Go is ready for your web browser and willing to go VR, if you're Rift-y. It is like a grey squirrel balanced on a branch, fearless. Made by Vincent Morisset, Caroline Robert, Édouard Lanctôt-Benoit and the studio AATOAA, visionary creators of BLA BLA and Arcade Fire's award-winning Just A Reflektor. Produced by the National Film Board of Canada, co-produced by France Televisions, with a mesmerizing soundtrack by Philippe Lambert, it is a game and a solace and an alarm, a wake-up call to the hazards of today. At a moment when we have access to so much, and see so little, Way to Go will remind you of all that lies before you, within you, in the luscious, sudden pleasure of discovery.",
+      "featured": true,
+      "slug": "a_way_to_go"
+    },
+    "createdTime": "2016-12-16T15:00:37.000Z"
+  },
+  {
+    "id": "rec0fQrLa4b307itB",
+    "fields": {
+      "name": "WebVR Samples: 07 - Advanced Mirroring",
+      "url": "https://webvr.info/samples/07-advanced-mirroring.html",
+      "description": "This sample demonstrates how to display a different view of the scene on an external monitor than is being viewed through the headset.",
+      "compat_reports": [
+        "rec7zZ92MKr6DhpRA"
+      ],
+      "slug": "webvr_samples_07_advanced_mirroring"
+    },
+    "createdTime": "2017-01-05T07:09:39.000Z"
+  },
+  {
+    "id": "rec0m6wz78fQpHzOQ",
+    "fields": {
+      "name": "Beach House",
+      "url": "https://sketchfab.com/models/52721c24ddd346159cc5f5b5419b1c17",
+      "authors": [
+        "rec9YM11cHGRsXc4z"
+      ],
+      "uses_frameworks": [
+        "SketchFab"
+      ],
+      "slug": "sketchfab_beach_house"
+    },
+    "createdTime": "2016-10-26T09:02:04.000Z"
+  },
+  {
+    "id": "rec14uRmnOKAmZBjM",
+    "fields": {
+      "name": "Immersive Workshop: myung",
+      "url": "http://classes.marpi.pl/immersive/public/myung",
+      "authors": [
+        "rec6TmVZuUDPR54MM"
+      ],
+      "tags": [
+        "workshop",
+        "experiment"
+      ],
+      "slug": "immersive_workshop_myung"
+    },
+    "createdTime": "2016-12-16T10:57:04.000Z"
+  },
+  {
+    "id": "rec1LOlxL0y25gpCj",
+    "fields": {
+      "name": "The Last Medium - Opposition RGB",
+      "url": "http://lastmedium.org/opposition-rgb",
+      "slug": "opposition_rgb"
+    },
+    "createdTime": "2016-11-02T02:22:49.000Z"
+  },
+  {
+    "id": "rec1yvyJCU438Fk86",
+    "fields": {
+      "name": "Immersive Workshop: effy",
+      "url": "http://classes.marpi.pl/immersive/public/effy",
+      "authors": [
+        "rec6TmVZuUDPR54MM"
+      ],
+      "tags": [
+        "workshop",
+        "experiment"
+      ],
+      "slug": "immersive_workshop_effy"
+    },
+    "createdTime": "2016-12-16T11:09:28.000Z"
+  },
+  {
+    "id": "rec278jatB0W3ofsS",
+    "fields": {
+      "name": "NPR",
+      "url": "https://twitter.com/nprviz/status/757602430645305344",
+      "case_study_or_landing_page_urls": "http://blog.apps.npr.org/2016/07/22/how-we-built-our-first-vr-story.html",
+      "tweet_urls": "https://twitter.com/nprviz/status/757602430645305344?ref_src=twsrc%5Etfw",
+      "slug": "npr_viz"
+    },
+    "createdTime": "2016-11-01T17:11:45.000Z"
+  },
+  {
+    "id": "rec2LwSvkH4h8lOcM",
+    "fields": {
+      "name": "WebVR Samples: 04 - Simple Mirroring",
+      "url": "https://webvr.info/samples/04-simple-mirroring.html",
+      "description": "This sample demonstrates how to mirror content to an external display while presenting to a VRDisplay.",
+      "compat_reports": [
+        "rec3ZI2Iz9pAYP61T"
+      ],
+      "slug": "webvr_samples_04_simple_mirroring"
+    },
+    "createdTime": "2017-01-05T07:09:32.000Z"
+  },
+  {
+    "id": "rec2fQLJ0mCs7yY5f",
+    "fields": {
+      "name": "Marpi Worlds 2: Rahil",
+      "url": "http://classes.marpi.pl/worlds2/rahil/",
+      "authors": [
+        "rec6TmVZuUDPR54MM"
+      ],
+      "tags": [
+        "workshop",
+        "experiment"
+      ],
+      "slug": "marpi_worlds2_rahil"
+    },
+    "createdTime": "2016-12-16T13:05:49.000Z"
+  },
+  {
+    "id": "rec2xCgRGLQl2PACU",
+    "fields": {
+      "name": "Explore GCH Hotels",
+      "url": "https://explore.gchhotelgroup.com/",
+      "authors": [
+        "recA94YD38mEiWQdC"
+      ],
+      "webvr_api_version_support": 0.9,
+      "slug": "explore_gch_hotels"
+    },
+    "createdTime": "2016-10-25T10:59:57.000Z"
+  },
+  {
+    "id": "rec33BRGsGzpRlfRv",
+    "fields": {
+      "name": "three.js: WebVR Vive Dragging",
+      "url": "https://threejs.org/examples/webvr_vive_dragging.html",
+      "authors": [
+        "recZfAEEB1FqeKzDr"
+      ],
+      "tags": [
+        "sample"
+      ],
+      "dependencies": [
+        "three.js"
+      ],
+      "uses_frameworks": [
+        "three.js"
+      ],
+      "slug": "threejs_webvr_vive_dragging"
+    },
+    "createdTime": "2016-10-24T22:22:03.000Z"
+  },
+  {
+    "id": "rec4yPgVdpHuD0KJY",
+    "fields": {
+      "name": "Immersive Workshop: jason",
+      "url": "http://classes.marpi.pl/immersive/public/jason",
+      "authors": [
+        "rec6TmVZuUDPR54MM",
+        "recOnxNjjrJuoJDOb"
+      ],
+      "tags": [
+        "workshop",
+        "experiment"
+      ],
+      "slug": "immersive_workshop_jason"
+    },
+    "createdTime": "2016-12-16T10:57:04.000Z"
+  },
+  {
+    "id": "rec5T59gAO4wXodqp",
+    "fields": {
+      "name": "Mozilla Developers' A-Frame Demos: Planet",
+      "url": "https://mozdevs.github.io/aframe-demo/orbits.html",
+      "source_code_url": "https://github.com/mozdevs/aframe-demo/blob/gh-pages/orbits.html",
+      "case_study_or_landing_page_urls": "https://mozdevs.github.io/aframe-demo/",
+      "slug": "mozdevs_aframe_orbits"
+    },
+    "createdTime": "2016-11-03T04:16:50.000Z"
+  },
+  {
+    "id": "rec6GTZsI8bsSQNk0",
+    "fields": {
+      "name": "Plane Fields (3)",
+      "url": "http://www.math.miami.edu/~kenken/webvr/planes.html",
+      "case_study_or_landing_page_urls": "http://www.math.miami.edu/~kenken/planesight.html",
+      "slug": "plane_fields_planes"
+    },
+    "createdTime": "2016-11-10T01:01:40.000Z"
+  },
+  {
+    "id": "rec6PTAhRbzQb5Nmt",
+    "fields": {
+      "name": "Marpi Worlds 2: Conrad",
+      "url": "http://classes.marpi.pl/worlds2/conrad/",
+      "authors": [
+        "rec6TmVZuUDPR54MM"
+      ],
+      "tags": [
+        "workshop",
+        "experiment"
+      ],
+      "slug": "marpi_worlds2_conrad"
+    },
+    "createdTime": "2016-12-16T13:05:49.000Z"
+  },
+  {
+    "id": "rec6i8cZjrGbLlgLL",
+    "fields": {
+      "name": "Sketchfab",
+      "url": "https://sketchfab.com/vr",
+      "case_study_or_landing_page_urls": "https://sketchfab.com/vr\nhttps://sketchfab.com/models/staffpicks",
+      "slug": "sketchfab"
+    },
+    "createdTime": "2016-10-24T22:26:15.000Z"
+  },
+  {
+    "id": "rec7Org8X2SV4xaX6",
+    "fields": {
+      "name": "VR Perfume",
+      "url": "https://github.com/mflux/vr-perfume",
+      "slug": "vr_perfume"
+    },
+    "createdTime": "2016-11-10T01:04:31.000Z"
+  },
+  {
+    "id": "rec7TBqUpC6sfaoTU",
+    "fields": {
+      "name": "WebVR Samples: 03 - VR Presentation",
+      "url": "https://webvr.info/samples/03-vr-presentation.html",
+      "description": "This sample demonstrates how to present the contents of a WebGL canvas to a VRDisplay. The content is not mirrored on the main display while being presented.",
+      "compat_reports": [
+        "rec1NElkpGYs1tAqA"
+      ],
+      "slug": "webvr_samples_03_vr_presentation"
+    },
+    "createdTime": "2017-01-05T06:53:48.000Z"
+  },
+  {
+    "id": "rec7jgl13iSB3Sh1R",
+    "fields": {
+      "name": "Marpi Worlds 2",
+      "url": "http://classes.marpi.pl/worlds2/",
+      "authors": [
+        "rec6TmVZuUDPR54MM"
+      ],
+      "tags": [
+        "workshop",
+        "experiment"
+      ],
+      "source_code_url": "https://github.com/marpi/worlds2/blob/master/index.html",
+      "slug": "marpi_worlds2"
+    },
+    "createdTime": "2016-12-16T13:08:51.000Z"
+  },
+  {
+    "id": "rec7lFj5DW9y1Rizo",
+    "fields": {
+      "name": "GPU Asteroids",
+      "url": "http://sirokos.com/GPUAsteroids/",
+      "slug": "gpu_asteroids"
+    },
+    "createdTime": "2016-10-19T00:41:40.000Z"
+  },
+  {
+    "id": "rec7tPi956cvpqH3q",
+    "fields": {
+      "name": "Black Rain",
+      "url": "http://demo.marpi.pl/archan/black_rain/",
+      "description": "Rain in WebVR",
+      "authors": [
+        "rec6TmVZuUDPR54MM",
+        "rec8rJ8nP6Yw0QcH7"
+      ],
+      "tags": [
+        "workshop",
+        "experiment"
+      ],
+      "screenshots": [
+        {
+          "id": "attKJbDb2durunzZi",
+          "url": "https://dl.airtable.com/hrREKXWFTe2ZOEkZl0SW_black-rain.png",
+          "filename": "black-rain.png",
+          "size": 191238,
+          "type": "image/png",
+          "thumbnails": {
+            "small": {
+              "url": "https://dl.airtable.com/gxpVgEOSzCA59fjEi2F0_small_black-rain.png",
+              "width": 58,
+              "height": 36
+            },
+            "large": {
+              "url": "https://dl.airtable.com/SFvDQcbZQ1OUnmRgT5Mx_large_black-rain.png",
+              "width": 400,
+              "height": 250
+            }
+          }
+        }
+      ],
+      "featured": true,
+      "slug": "black_rain"
+    },
+    "createdTime": "2016-12-16T10:45:02.000Z"
+  },
+  {
+    "id": "rec7y8z8h1JYihxFP",
+    "fields": {
+      "name": "Geometric Blue Sky Worlds",
+      "authors": [
+        "recxM4hVbGX90tbe5"
+      ],
+      "tags": [
+        "experiment"
+      ],
+      "dependencies": [
+        "three.js"
+      ],
+      "source_code_url": "https://github.com/PatriciaMRobinson/Geometric-Blue-Sky-Worlds",
+      "uses_frameworks": [
+        "three.js"
+      ],
+      "slug": "geometric_blue_worlds"
+    },
+    "createdTime": "2016-12-16T10:57:41.000Z"
+  },
+  {
+    "id": "rec81sIeLmhh3ISOB",
+    "fields": {
+      "name": "Unique Flow VR",
+      "url": "https://www.field.io/x/uniqueflow/",
+      "authors": [
+        "recRbJOcLTjmWtsio"
+      ],
+      "tags": [
+        "commercial"
+      ],
+      "case_study_or_landing_page_urls": "https://www.field.io/project/unique-flow/\nhttps://uniqueflow.me/",
+      "slug": "unique_flow"
+    },
+    "createdTime": "2016-10-24T22:06:33.000Z"
+  },
+  {
+    "id": "rec82q2fhknRSTY5k",
+    "fields": {
+      "name": "WebVR Samples: 06 - VR audio",
+      "url": "https://webvr.info/samples/06-vr-audio.html",
+      "description": "This sample demonstrates how to use Web Audio to play properly spatialized audio for the user's head position.",
+      "compat_reports": [
+        "recDcUQHxz2YxC4HR"
+      ],
+      "slug": "webvr_samples_06_vr_audio"
+    },
+    "createdTime": "2017-01-05T07:09:37.000Z"
+  },
+  {
+    "id": "rec85K9g9k3IY9TEF",
+    "fields": {
+      "name": "WebVR Paint",
+      "url": "https://mrdoob.github.io/webvr-paint/",
+      "authors": [
+        "recZfAEEB1FqeKzDr"
+      ],
+      "slug": "webvr_paint"
+    },
+    "createdTime": "2016-10-25T10:51:47.000Z"
+  },
+  {
+    "id": "rec86lycEXQUiUsvm",
+    "fields": {
+      "name": "Immersive Workshop: butterfly",
+      "url": "http://classes.marpi.pl/immersive/public/butterfly",
+      "authors": [
+        "rec6TmVZuUDPR54MM"
+      ],
+      "tags": [
+        "workshop",
+        "experiment"
+      ],
+      "slug": "immersive_workshop_animation"
+    },
+    "createdTime": "2016-12-16T10:56:17.000Z"
+  },
+  {
+    "id": "rec8DVSoe10GMlDMn",
+    "fields": {
+      "name": "Cute Cubes: Talking",
+      "url": "http://unboring.net/lab/cuteCubes/talking.html",
+      "authors": [
+        "recA94YD38mEiWQdC"
+      ],
+      "case_study_or_landing_page_urls": "http://unboring.net/lab/cuteCubes/",
+      "webvr_api_version_support": 1,
+      "slug": "cute_cubes_talking"
+    },
+    "createdTime": "2016-10-24T22:03:48.000Z"
+  },
+  {
+    "id": "rec8faL9ypWhZNsvq",
+    "fields": {
+      "name": "WebVR Samples: Test - Canvas Attributes",
+      "url": "https://webvr.info/samples/test-canvas-attributes.html",
+      "description": "This sample tests a variety of canvas creation attribute combinations to ensure they all work with the WebVR implementation.",
+      "compat_reports": [
+        "recjAFs5aXqoQ9sWO"
+      ],
+      "slug": "webvr_samples_test_canvas_attributes"
+    },
+    "createdTime": "2017-01-05T07:09:42.000Z"
+  },
+  {
+    "id": "rec8i4emxYC5I1LkB",
+    "fields": {
+      "name": "Google Chrome Developer Summit",
+      "url": "https://developer.chrome.com/devsummit/location",
+      "slug": "chrome_dev_summit"
+    },
+    "createdTime": "2016-11-01T17:26:18.000Z"
+  },
+  {
+    "id": "rec8r4m6qvnL1UBf6",
+    "fields": {
+      "name": "Finding Love",
+      "url": "https://findinglove.activetheory.net/",
+      "description": "We fall in love by chance. We stay in love by choice. A virtual reality story for us.",
+      "authors": [
+        "rec2LM12QuG6LBuRJ"
+      ],
+      "screenshots": [
+        {
+          "id": "attYPhnBZNtkwoKaE",
+          "url": "https://dl.airtable.com/sdSJpkjwQyWP05mLmsha_1*96qOTtIk-YfPxmCLk0p7uQ.png",
+          "filename": "1*96qOTtIk-YfPxmCLk0p7uQ.png",
+          "size": 1106751,
+          "type": "image/png",
+          "thumbnails": {
+            "small": {
+              "url": "https://dl.airtable.com/OXJA9xheQoy8lT65Zrko_small_1*96qOTtIk-YfPxmCLk0p7uQ.png",
+              "width": 74,
+              "height": 36
+            },
+            "large": {
+              "url": "https://dl.airtable.com/9evrPLgLRcxfxotSY2XM_large_1*96qOTtIk-YfPxmCLk0p7uQ.png",
+              "width": 512,
+              "height": 512
+            }
+          }
+        },
+        {
+          "id": "attFmBI0HCALMpqnw",
+          "url": "https://dl.airtable.com/43jdmPfeSUOOAhV1mzx6_giphy.gif",
+          "filename": "giphy.gif",
+          "size": 2834407,
+          "type": "image/gif",
+          "thumbnails": {
+            "small": {
+              "url": "https://dl.airtable.com/yE24aGGZT9epk4IM1ZWN_small_giphy.gif",
+              "width": 64,
+              "height": 36
+            },
+            "large": {
+              "url": "https://dl.airtable.com/Uj5e9JCSkeD6jTtucAzQ_large_giphy.gif",
+              "width": 480,
+              "height": 270
+            }
+          }
+        },
+        {
+          "id": "attB07CesfnRzvUjV",
+          "url": "https://dl.airtable.com/zTQpPEPtTSy7AzTqdbzx_giphy.gif",
+          "filename": "giphy.gif",
+          "size": 2755714,
+          "type": "image/gif",
+          "thumbnails": {
+            "small": {
+              "url": "https://dl.airtable.com/KjI2wkrSIy7W023UpSuA_small_giphy.gif",
+              "width": 64,
+              "height": 36
+            },
+            "large": {
+              "url": "https://dl.airtable.com/k9x7fHINTdm5SACE8STd_large_giphy.gif",
+              "width": 480,
+              "height": 270
+            }
+          }
+        },
+        {
+          "id": "attAJkNzEyJp4Zgac",
+          "url": "https://dl.airtable.com/PvEUfRoSzeeFF2Mv4syg_cover.png",
+          "filename": "cover.png",
+          "size": 619322,
+          "type": "image/png",
+          "thumbnails": {
+            "small": {
+              "url": "https://dl.airtable.com/GC4byITKmzmk8q7brQ7Q_small_cover.png",
+              "width": 69,
+              "height": 36
+            },
+            "large": {
+              "url": "https://dl.airtable.com/1H0a09r6SJWUFupePa27_large_cover.png",
+              "width": 512,
+              "height": 512
+            }
+          }
+        },
+        {
+          "id": "attrruhT3EdP0bwEg",
+          "url": "https://dl.airtable.com/1GzqMoaGRLmiF7gYzzb5_icon-196.png",
+          "filename": "icon-196.png",
+          "size": 44235,
+          "type": "image/png",
+          "thumbnails": {
+            "small": {
+              "url": "https://dl.airtable.com/TOU5QpzRRaGvsuwPfRzn_small_icon-196.png",
+              "width": 36,
+              "height": 36
+            },
+            "large": {
+              "url": "https://dl.airtable.com/hKoeGVBLRGO1opIw4Enp_large_icon-196.png",
+              "width": 196,
+              "height": 196
+            }
+          }
+        },
+        {
+          "id": "attTCXtI29Z7djR8t",
+          "url": "https://dl.airtable.com/W4bXBNJGRT2ExRwQaWyg_icon-180-ios.png",
+          "filename": "icon-180-ios.png",
+          "size": 33807,
+          "type": "image/png",
+          "thumbnails": {
+            "small": {
+              "url": "https://dl.airtable.com/wE4pNlIoQhSGSRlUBJoF_small_icon-180-ios.png",
+              "width": 36,
+              "height": 36
+            },
+            "large": {
+              "url": "https://dl.airtable.com/BMffLsRfRMav79AG1HZy_large_icon-180-ios.png",
+              "width": 180,
+              "height": 180
+            }
+          }
+        },
+        {
+          "id": "attPSue4fggOaZY7H",
+          "url": "https://dl.airtable.com/Q9N9hJxfSSavpqYt7WHa_icon-167-ios.png",
+          "filename": "icon-167-ios.png",
+          "size": 29801,
+          "type": "image/png",
+          "thumbnails": {
+            "small": {
+              "url": "https://dl.airtable.com/zCsAMzK2RJSq4fcAu3Db_small_icon-167-ios.png",
+              "width": 36,
+              "height": 36
+            },
+            "large": {
+              "url": "https://dl.airtable.com/BZmMi4XRRTu2YXOw6GJ0_large_icon-167-ios.png",
+              "width": 167,
+              "height": 167
+            }
+          }
+        },
+        {
+          "id": "attYdV5jtISTr5iey",
+          "url": "https://dl.airtable.com/5j5cD8NLT0WiIzg2q1Ti_icon-152-ios.png",
+          "filename": "icon-152-ios.png",
+          "size": 25515,
+          "type": "image/png",
+          "thumbnails": {
+            "small": {
+              "url": "https://dl.airtable.com/2jbv2jjQGnW2Flo7xlOQ_small_icon-152-ios.png",
+              "width": 36,
+              "height": 36
+            },
+            "large": {
+              "url": "https://dl.airtable.com/QI7COE9BTYO7ZwiXG5rw_large_icon-152-ios.png",
+              "width": 152,
+              "height": 152
+            }
+          }
+        },
+        {
+          "id": "attHwB5xOCuhcSCyR",
+          "url": "https://dl.airtable.com/8CNAGABTEiZyWAhAztzA_icon-144.png",
+          "filename": "icon-144.png",
+          "size": 23290,
+          "type": "image/png",
+          "thumbnails": {
+            "small": {
+              "url": "https://dl.airtable.com/eIDEbmA1SlqgWIgZFPYG_small_icon-144.png",
+              "width": 36,
+              "height": 36
+            },
+            "large": {
+              "url": "https://dl.airtable.com/VTsAmZbaRjSzIVYHIdFE_large_icon-144.png",
+              "width": 144,
+              "height": 144
+            }
+          }
+        },
+        {
+          "id": "attHHce0kN71S8f9k",
+          "url": "https://dl.airtable.com/fyaxaiBsSRWEMeXrZsGE_icon-128.png",
+          "filename": "icon-128.png",
+          "size": 16667,
+          "type": "image/png",
+          "thumbnails": {
+            "small": {
+              "url": "https://dl.airtable.com/B8YfwdMWQiiCnXHeKwhd_small_icon-128.png",
+              "width": 36,
+              "height": 36
+            },
+            "large": {
+              "url": "https://dl.airtable.com/IvpigNUkQI261rsnrO2q_large_icon-128.png",
+              "width": 128,
+              "height": 128
+            }
+          }
+        },
+        {
+          "id": "attXGCw9YZ5fScIMf",
+          "url": "https://dl.airtable.com/leqM7qw6QwODXp43NauX_icon-114.png",
+          "filename": "icon-114.png",
+          "size": 33807,
+          "type": "image/png",
+          "thumbnails": {
+            "small": {
+              "url": "https://dl.airtable.com/Bq8uaa0gRQykfqKq4FqU_small_icon-114.png",
+              "width": 36,
+              "height": 36
+            },
+            "large": {
+              "url": "https://dl.airtable.com/XKX7vs1ERBazDchbD5jr_large_icon-114.png",
+              "width": 180,
+              "height": 180
+            }
+          }
+        },
+        {
+          "id": "attc7UBQ50FKNFsBi",
+          "url": "https://dl.airtable.com/pPcfYZ5sRmm2nLZwDk8y_icon-96.png",
+          "filename": "icon-96.png",
+          "size": 12650,
+          "type": "image/png",
+          "thumbnails": {
+            "small": {
+              "url": "https://dl.airtable.com/WzWPIQKcR5iJa0WqGTo3_small_icon-96.png",
+              "width": 36,
+              "height": 36
+            },
+            "large": {
+              "url": "https://dl.airtable.com/sL7PehtaSBKLw8uuS5BC_large_icon-96.png",
+              "width": 96,
+              "height": 96
+            }
+          }
+        },
+        {
+          "id": "attN72ssM8NK06UsR",
+          "url": "https://dl.airtable.com/SgfACyNrRdWIwLL1AxBX_icon-72-ios.png",
+          "filename": "icon-72-ios.png",
+          "size": 7488,
+          "type": "image/png",
+          "thumbnails": {
+            "small": {
+              "url": "https://dl.airtable.com/Vyh3JA4cR8y6AFTedbX8_small_icon-72-ios.png",
+              "width": 36,
+              "height": 36
+            },
+            "large": {
+              "url": "https://dl.airtable.com/HXFxB5nNS9CQ02pblAEV_large_icon-72-ios.png",
+              "width": 72,
+              "height": 72
+            }
+          }
+        },
+        {
+          "id": "attRfyJ5xKe3bevrT",
+          "url": "https://dl.airtable.com/AY6DqhwESwu9ATTNl21h_icon-57.png",
+          "filename": "icon-57.png",
+          "size": 5169,
+          "type": "image/png",
+          "thumbnails": {
+            "small": {
+              "url": "https://dl.airtable.com/C5QXxm6kSomcn1CP0QUA_small_icon-57.png",
+              "width": 36,
+              "height": 36
+            },
+            "large": {
+              "url": "https://dl.airtable.com/l37kDHlATC9x3D4NCMeg_large_icon-57.png",
+              "width": 57,
+              "height": 57
+            }
+          }
+        },
+        {
+          "id": "attBV5qMMuswg2pC4",
+          "url": "https://dl.airtable.com/5BABnt47Rsi3he4MkUIQ_icon-32.png",
+          "filename": "icon-32.png",
+          "size": 2086,
+          "type": "image/png",
+          "thumbnails": {
+            "small": {
+              "url": "https://dl.airtable.com/SLZclhWSQeMmJcCrviDR_small_icon-32.png",
+              "width": 32,
+              "height": 32
+            },
+            "large": {
+              "url": "https://dl.airtable.com/47RZhpH0Tpecs5YBiVLI_large_icon-32.png",
+              "width": 32,
+              "height": 32
+            }
+          }
+        },
+        {
+          "id": "att5wrsNQy8g9i3WH",
+          "url": "https://dl.airtable.com/uREfYFSJSdSovn7MFFD8_icon-16.png",
+          "filename": "icon-16.png",
+          "size": 783,
+          "type": "image/png",
+          "thumbnails": {
+            "small": {
+              "url": "https://dl.airtable.com/2fduzNiySF6ndfeV3123_small_icon-16.png",
+              "width": 16,
+              "height": 16
+            },
+            "large": {
+              "url": "https://dl.airtable.com/iAqjMmTtQiSiGxwJRZE4_large_icon-16.png",
+              "width": 16,
+              "height": 16
+            }
+          }
+        },
+        {
+          "id": "atty3WOrix5IfVujS",
+          "url": "https://dl.airtable.com/LOQxDRJ6ivpaDANMEAKp_cover.png",
+          "filename": "cover.png",
+          "size": 619322,
+          "type": "image/png",
+          "thumbnails": {
+            "small": {
+              "url": "https://dl.airtable.com/Eb3mK6hVSUOwugSJV6IH_small_cover.png",
+              "width": 69,
+              "height": 36
+            },
+            "large": {
+              "url": "https://dl.airtable.com/LAROBZ5GQJWeFvsqaglG_large_cover.png",
+              "width": 512,
+              "height": 512
+            }
+          }
+        }
+      ],
+      "case_study_or_landing_page_urls": "https://medium.com/@activetheory/finding-love-b4cf6727721b",
+      "featured": true,
+      "slug": "findinglove"
+    },
+    "createdTime": "2017-02-06T14:07:15.000Z"
+  },
+  {
+    "id": "rec956lb7cgOaLAoJ",
+    "fields": {
+      "name": "Marpi Worlds 2: Pieter",
+      "url": "http://classes.marpi.pl/worlds2/pieter/",
+      "authors": [
+        "rec6TmVZuUDPR54MM"
+      ],
+      "tags": [
+        "workshop",
+        "experiment"
+      ],
+      "slug": "marpi_worlds2_pieter"
+    },
+    "createdTime": "2016-12-16T13:05:49.000Z"
+  },
+  {
+    "id": "rec96WNmr3l1DveQM",
+    "fields": {
+      "name": "Marpi Worlds 2: Zachary D",
+      "url": "http://classes.marpi.pl/worlds2/zachary_d/",
+      "authors": [
+        "rec6TmVZuUDPR54MM"
+      ],
+      "tags": [
+        "workshop",
+        "experiment"
+      ],
+      "slug": "marpi_worlds2_zachary_d"
+    },
+    "createdTime": "2016-12-16T13:05:49.000Z"
+  },
+  {
+    "id": "rec9dN9aiINp3g3EE",
+    "fields": {
+      "name": "Marpi Worlds 2: Raiston",
+      "url": "http://classes.marpi.pl/worlds2/raiston/",
+      "authors": [
+        "rec6TmVZuUDPR54MM"
+      ],
+      "tags": [
+        "workshop",
+        "experiment"
+      ],
+      "slug": "marpi_worlds2_raiston"
+    },
+    "createdTime": "2016-12-16T13:05:49.000Z"
+  },
+  {
+    "id": "rec9th7jkjMuO8WG1",
+    "fields": {
+      "name": "Marpi Worlds 2: Nicole",
+      "url": "http://classes.marpi.pl/worlds2/nicole/",
+      "authors": [
+        "rec6TmVZuUDPR54MM"
+      ],
+      "tags": [
+        "workshop",
+        "experiment"
+      ],
+      "slug": "marpi_worlds2_nicole"
+    },
+    "createdTime": "2016-12-16T13:05:49.000Z"
+  },
+  {
+    "id": "recAKPNgYI6OyhV3U",
+    "fields": {
+      "name": "Impronunciable Village",
+      "url": "https://impronunciable.github.io/webvr-experiments/village/",
+      "authors": [
+        "recJjaZtV3c5Jyu1P"
+      ],
+      "tags": [
+        "experiment"
+      ],
+      "source_code_url": "https://github.com/impronunciable/webvr-experiments/tree/master/village",
+      "screenshots": [
+        {
+          "id": "attNTyY2X2m3M57NP",
+          "url": "https://dl.airtable.com/YJ3PlnGS2SEQ6SgyI4pF_Screen%20Shot%202016-12-16%20at%2007.11.54.png",
+          "filename": "Screen Shot 2016-12-16 at 07.11.54.png",
+          "size": 247724,
+          "type": "image/png",
+          "thumbnails": {
+            "small": {
+              "url": "https://dl.airtable.com/S0Lg1TGQaauADsFuJmgl_small_Screen%20Shot%202016-12-16%20at%2007.11.54.png",
+              "width": 64,
+              "height": 36
+            },
+            "large": {
+              "url": "https://dl.airtable.com/bcdr8t7nQna3VZ0WTZdF_large_Screen%20Shot%202016-12-16%20at%2007.11.54.png",
+              "width": 512,
+              "height": 512
+            }
+          }
+        }
+      ],
+      "slug": "impronunciable_village"
+    },
+    "createdTime": "2016-12-16T15:07:53.000Z"
+  },
+  {
+    "id": "recAWFmAGR4RFthO6",
+    "fields": {
+      "name": "Travis $cott",
+      "url": "https://travisscott.com/",
+      "genres": [
+        "art",
+        "experimental"
+      ],
+      "screenshots": [
+        {
+          "id": "attc3YtTRCK0bM43H",
+          "url": "https://dl.airtable.com/8vSIHrSSTKuZQAIXhDOu_Screen%20Shot%202016-12-15%20at%2010.26.13%20PM.png",
+          "filename": "Screen Shot 2016-12-15 at 10.26.13 PM.png",
+          "size": 1147493,
+          "type": "image/png",
+          "thumbnails": {
+            "small": {
+              "url": "https://dl.airtable.com/1PPf6ZoTTtaKkz9Kzqw4_small_Screen%20Shot%202016-12-15%20at%2010.26.13%20PM.png",
+              "width": 63,
+              "height": 36
+            },
+            "large": {
+              "url": "https://dl.airtable.com/LT1q4VGdSJqIqgMY72cT_large_Screen%20Shot%202016-12-15%20at%2010.26.13%20PM.png",
+              "width": 512,
+              "height": 512
+            }
+          }
+        }
+      ],
+      "slug": "travis_scott"
+    },
+    "createdTime": "2016-10-24T22:22:37.000Z"
+  },
+  {
+    "id": "recAwNmIRFlPoAwKy",
+    "fields": {
+      "name": "Marpi Worlds 2: Barbara",
+      "url": "http://classes.marpi.pl/worlds2/barbara/",
+      "authors": [
+        "rec6TmVZuUDPR54MM"
+      ],
+      "tags": [
+        "workshop",
+        "experiment"
+      ],
+      "slug": "marpi_worlds2_barbara"
+    },
+    "createdTime": "2016-12-16T13:05:49.000Z"
+  },
+  {
+    "id": "recCdZcHVFlXxZbmR",
+    "fields": {
+      "name": "A-Blast",
+      "screenshots": [
+        {
+          "id": "attXK2JOEKvzqmqik",
+          "url": "https://dl.airtable.com/VVirZBngT5G24YkD1D3B_mainmenu-1.png",
+          "filename": "mainmenu-1.png",
+          "size": 416449,
+          "type": "image/png",
+          "thumbnails": {
+            "small": {
+              "url": "https://dl.airtable.com/57aV08q7QuGi21wRlWF4_small_mainmenu-1.png",
+              "width": 59,
+              "height": 36
+            },
+            "large": {
+              "url": "https://dl.airtable.com/15tIaKqiRBSZ04YHmpWO_large_mainmenu-1.png",
+              "width": 512,
+              "height": 512
+            }
+          }
+        }
+      ]
+    },
+    "createdTime": "2017-02-06T15:02:09.000Z"
+  },
+  {
+    "id": "recCfVQogjfLl0uGw",
+    "fields": {
+      "name": "Ghost Train Builder",
+      "url": "http://ghosttrainbuilder.com/",
+      "case_study_or_landing_page_urls": "https://aframe.io/blog/ghost-train-builder/",
+      "tweet_urls": "https://www.reddit.com/r/WebVR/comments/59x4sa/ghost_train_builder_halloween_vr_ride/?ref=share&ref_source=link",
+      "reddit_urls": "https://www.reddit.com/r/WebVR/comments/59x4sa/ghost_train_builder_halloween_vr_ride/?ref=share&ref_source=link"
+    },
+    "createdTime": "2016-11-01T15:42:22.000Z"
+  },
+  {
+    "id": "recCnyKTvid7Hxqlj",
+    "fields": {
+      "name": "WebVR Samples: Test - Slow GPU",
+      "url": "https://webvr.info/samples/test-slow-render.html?heavyGpu=1",
+      "description": "This test attempts to stress-test the GPU with a texture-heavy, shader-intensive scene so that WebVR implementations gauge how well they handle that scenario.",
+      "compat_reports": [
+        "rec6wS5QuY81EErpu"
+      ],
+      "slug": "webvr_samples_test_slow_render_heavy_gpu"
+    },
+    "createdTime": "2017-01-05T07:09:43.000Z"
+  },
+  {
+    "id": "recD3HBjF0G5FfDYT",
+    "fields": {
+      "name": "Is the Nasdaq in Another Bubble?",
+      "url": "http://graphics.wsj.com/3d-nasdaq/",
+      "case_study_or_landing_page_urls": "http://graphics.wsj.com/3d-nasdaq/",
+      "slug": "3d_nasdaq"
+    },
+    "createdTime": "2016-10-25T10:58:56.000Z"
+  },
+  {
+    "id": "recDTSteLK2EKrBxJ",
+    "fields": {
+      "name": "Immersive Workshop: kaitlin",
+      "url": "http://classes.marpi.pl/immersive/public/kaitlin",
+      "authors": [
+        "rec6TmVZuUDPR54MM",
+        "rec7ufLBYS6jRcsZi"
+      ],
+      "tags": [
+        "workshop",
+        "experiment"
+      ],
+      "slug": "immersive_workshop_kaitlin"
+    },
+    "createdTime": "2016-12-16T10:57:04.000Z"
+  },
+  {
+    "id": "recDzSEh0xd9A7gaO",
+    "fields": {
+      "name": "Marpi Worlds 2: Class",
+      "url": "http://classes.marpi.pl/worlds2/class/",
+      "authors": [
+        "rec6TmVZuUDPR54MM"
+      ],
+      "tags": [
+        "workshop",
+        "experiment"
+      ],
+      "slug": "marpi_worlds2_class"
+    },
+    "createdTime": "2016-12-16T13:05:49.000Z"
+  },
+  {
+    "id": "recEDoIVA3DUlEAkD",
+    "fields": {
+      "name": "three.js: WebVR Video",
+      "url": "https://threejs.org/examples/webvr_video.html",
+      "authors": [
+        "recZfAEEB1FqeKzDr"
+      ],
+      "tags": [
+        "sample"
+      ],
+      "dependencies": [
+        "three.js"
+      ],
+      "uses_frameworks": [
+        "three.js"
+      ],
+      "slug": "threejs_webvr_video"
+    },
+    "createdTime": "2016-10-24T22:22:14.000Z"
+  },
+  {
+    "id": "recEEAnaKAQn3I34z",
+    "fields": {
+      "name": "Immersive Workshop: cube_wall",
+      "url": "http://classes.marpi.pl/immersive/public/cube_wall",
+      "authors": [
+        "rec6TmVZuUDPR54MM"
+      ],
+      "tags": [
+        "workshop",
+        "experiment"
+      ],
+      "slug": "immersive_workshop_cube_wall"
+    },
+    "createdTime": "2016-12-16T10:57:04.000Z"
+  },
+  {
+    "id": "recEPQsqqa2aubYRp",
+    "fields": {
+      "name": "Space Disaster",
+      "url": "https://www.blend4web.com/apps/space_disaster/space_disaster.html",
+      "tags": [
+        "showcase",
+        "space",
+        "fps",
+        "webcam"
+      ],
+      "genres": [
+        "shooter"
+      ],
+      "screenshots": [
+        {
+          "id": "attGOHusj5sym0e8W",
+          "url": "https://dl.airtable.com/H4sKLRm6T0SgyC5Fbaub_dl1.png",
+          "filename": "dl1.png",
+          "size": 1861570,
+          "type": "image/png",
+          "thumbnails": {
+            "small": {
+              "url": "https://dl.airtable.com/Sa5p728fRMSqQygWSZHP_small_dl1.png",
+              "width": 64,
+              "height": 36
+            },
+            "large": {
+              "url": "https://dl.airtable.com/nqA425VrThaJEHpfTeqK_large_dl1.png",
+              "width": 512,
+              "height": 512
+            }
+          }
+        }
+      ],
+      "case_study_or_landing_page_urls": "https://www.blend4web.com/en/demo/webvr_game/",
+      "notes": "This is a small VR-based game optimized for playing with popular HMD devices such as Oculus Rift, GearVR and Google Cardboard.\n\n\nTurn on the sound on your computer or device because the audio is atmospheric. You can optionally use a gamepad connected via USB interface or Bluetooth instead of the mouse in order to control your space ship. You can also connect a web camera to check out how nice you look in a VR headset!\n\nThe game, of course, can be played without any headset too. If you are interested in how this all was done and/or want to create your own WebGL/WebVR game, check the source files both in the Blend4Web PRO and Community Edition distros.\n",
+      "community_picks": [
+        "recCLC3wB4jpV1kKP"
+      ],
+      "evaluation": "chromium + rift: works nicely!  no touch support.  must use mouse to shoot",
+      "slug": "space_disaster"
+    },
+    "createdTime": "2016-10-24T22:15:41.000Z"
+  },
+  {
+    "id": "recEoM6BvZyTd6dpQ",
+    "fields": {
+      "name": "Kuva Block Background",
+      "url": "https://kuva.io/block-background/",
+      "authors": [
+        "recrAz6nMSzgoh81q",
+        "recU3uD7ojTd4X2Rt"
+      ],
+      "slug": "kuva_block_background"
+    },
+    "createdTime": "2016-10-25T11:09:09.000Z"
+  },
+  {
+    "id": "recFFWcssTRus6F20",
+    "fields": {
+      "name": "Jaunt - Music Lobby",
+      "url": "https://www.jauntvr.com/lobby/MusicLobby",
+      "description": "Jaunt Music library.",
+      "authors": [
+        "rectH2WlT2D8IOrKc"
+      ],
+      "tags": [
+        "audio",
+        "music"
+      ],
+      "slug": "jaunt_music_lobby"
+    },
+    "createdTime": "2016-11-03T01:33:56.000Z"
+  },
+  {
+    "id": "recFQbtBceFZrfm18",
+    "fields": {
+      "name": "Immersive Workshop: grace",
+      "url": "http://classes.marpi.pl/immersive/public/grace",
+      "authors": [
+        "rec6TmVZuUDPR54MM",
+        "rec7ufLBYS6jRcsZi"
+      ],
+      "tags": [
+        "workshop",
+        "experiment"
+      ],
+      "slug": "immersive_workshop_grace"
+    },
+    "createdTime": "2016-12-16T10:57:04.000Z"
+  },
+  {
+    "id": "recGKocCqT6n3bswq",
+    "fields": {
+      "name": "Immersive Workshop: space_animation",
+      "url": "http://classes.marpi.pl/immersive/public/space_animation",
+      "authors": [
+        "rec6TmVZuUDPR54MM"
+      ],
+      "tags": [
+        "workshop",
+        "experiment"
+      ],
+      "slug": "immersive_workshop_space_animation"
+    },
+    "createdTime": "2016-12-16T10:57:04.000Z"
+  },
+  {
+    "id": "recGVyybpkMw5zFRv",
+    "fields": {
+      "name": "Marpi Worlds 2: Andrew",
+      "url": "http://classes.marpi.pl/worlds2/andrew/",
+      "authors": [
+        "rec6TmVZuUDPR54MM"
+      ],
+      "tags": [
+        "workshop",
+        "experiment"
+      ],
+      "slug": "marpi_worlds2_andrew"
+    },
+    "createdTime": "2016-12-16T13:05:49.000Z"
+  },
+  {
+    "id": "recGuekRHwR0Znxvv",
+    "fields": {
+      "name": "three.js: WebVR Shadow",
+      "url": "https://threejs.org/examples/webvr_shadow.html",
+      "authors": [
+        "recZfAEEB1FqeKzDr"
+      ],
+      "tags": [
+        "sample"
+      ],
+      "dependencies": [
+        "three.js"
+      ],
+      "uses_frameworks": [
+        "three.js"
+      ],
+      "slug": "threejs_webvr_shadow"
+    },
+    "createdTime": "2016-10-24T22:22:03.000Z"
+  },
+  {
+    "id": "recGzN1Ti2PP10QDj",
+    "fields": {
+      "name": "VRambling",
+      "url": "http://vrambling.com/",
+      "slug": "vrambling"
+    },
+    "createdTime": "2016-10-31T22:55:32.000Z"
+  },
+  {
+    "id": "recHDlnOvxXsrUT2L",
+    "fields": {
+      "name": "Hexkraft Haus",
+      "url": "http://hexkraft.com/hexkrafthaus/",
+      "slug": "hexkraft_haus"
+    },
+    "createdTime": "2016-11-02T01:17:43.000Z"
+  },
+  {
+    "id": "recHg2BC2Ko0VkkjQ",
+    "fields": {
+      "name": "Ceremoney",
+      "url": "http://polyop.uk/ceremony/",
+      "slug": "ceremony"
+    },
+    "createdTime": "2016-11-03T04:17:39.000Z"
+  },
+  {
+    "id": "recI1grqDCUA8Y6AL",
+    "fields": {
+      "name": "three.js: WebVR Cubes",
+      "url": "https://threejs.org/examples/webvr_cubes.html",
+      "authors": [
+        "recZfAEEB1FqeKzDr"
+      ],
+      "tags": [
+        "sample"
+      ],
+      "dependencies": [
+        "three.js"
+      ],
+      "uses_frameworks": [
+        "three.js"
+      ],
+      "slug": "threejs_webvr_cubes"
+    },
+    "createdTime": "2016-10-24T22:07:01.000Z"
+  },
+  {
+    "id": "recISv78DWtpgehUF",
+    "fields": {
+      "name": "Quake 3 WebGL Demo",
+      "url": "https://media.tojicode.com/q3bsp/",
+      "authors": [
+        "rec6rCk1P05p64UOC"
+      ],
+      "uses_frameworks": [
+        "(none / WebGL)"
+      ],
+      "slug": "quake3"
+    },
+    "createdTime": "2016-10-26T09:03:27.000Z"
+  },
+  {
+    "id": "recIaW7ibJKkrBXuM",
+    "fields": {
+      "name": "A-Painter",
+      "url": "https://aframe.io/a-painter/",
+      "description": "Paint and sketch in VR by Mozilla A-Frame team.",
+      "authors": [
+        "reckpSgXipd8L16gH",
+        "recA6BQaW6VRvXfv1"
+      ],
+      "tags": [
+        "showcase"
+      ],
+      "dependencies": [
+        "aframe",
+        "three.js",
+        "webvr-polyfill"
+      ],
+      "uses_frameworks": [
+        "A-Frame"
+      ],
+      "screenshots": [
+        {
+          "id": "attr21OhV3B4jYnuf",
+          "url": "https://dl.airtable.com/fxI2uaAQGXJJIFF86wqw_logo_a-painter_high-nobrands.jpg",
+          "filename": "logo_a-painter_high-nobrands.jpg",
+          "size": 257576,
+          "type": "image/jpeg",
+          "thumbnails": {
+            "small": {
+              "url": "https://dl.airtable.com/egip3MgUQ1wNM1kDIzWU_small_logo_a-painter_high-nobrands.jpg",
+              "width": 68,
+              "height": 36
+            },
+            "large": {
+              "url": "https://dl.airtable.com/5wnRy2pCS4qCnamjxgC7_large_logo_a-painter_high-nobrands.jpg",
+              "width": 512,
+              "height": 512
+            }
+          }
+        },
+        {
+          "id": "att0RHOIVYxnLZdWu",
+          "url": "https://dl.airtable.com/jns2dq52TJuXinef36w2_apainter.png",
+          "filename": "apainter.png",
+          "size": 110250,
+          "type": "image/png",
+          "thumbnails": {
+            "small": {
+              "url": "https://dl.airtable.com/3QzvULYBRyCRvzsBxC7p_small_apainter.png",
+              "width": 45,
+              "height": 36
+            },
+            "large": {
+              "url": "https://dl.airtable.com/pQEBqnLvRpWhH6leVeUQ_large_apainter.png",
+              "width": 401,
+              "height": 321
+            }
+          }
+        },
+        {
+          "id": "attMFg0XO5IPbgT8f",
+          "url": "https://dl.airtable.com/79nsWx9tSWWrIJg44zBF_upload2.png",
+          "filename": "upload2.png",
+          "size": 213725,
+          "type": "image/png",
+          "thumbnails": {
+            "small": {
+              "url": "https://dl.airtable.com/uR2TgTROQ6xBSYtAeA8O_small_upload2.png",
+              "width": 39,
+              "height": 36
+            },
+            "large": {
+              "url": "https://dl.airtable.com/IrrP8uODSyCgMyRMwZ9P_large_upload2.png",
+              "width": 512,
+              "height": 512
+            }
+          }
+        },
+        {
+          "id": "attqsUfbIDdorNbck",
+          "url": "https://dl.airtable.com/wGgVGLhRqCuqjsEMcGJZ_upload1.png",
+          "filename": "upload1.png",
+          "size": 347980,
+          "type": "image/png",
+          "thumbnails": {
+            "small": {
+              "url": "https://dl.airtable.com/IlnDmX1eTQ6yw1xE5AFL_small_upload1.png",
+              "width": 47,
+              "height": 36
+            },
+            "large": {
+              "url": "https://dl.airtable.com/dfIBVzYgRJO4awagOztA_large_upload1.png",
+              "width": 512,
+              "height": 512
+            }
+          }
+        },
+        {
+          "id": "attAXn2O8zNsL9hzU",
+          "url": "https://dl.airtable.com/ocjdOZ2T3WoWev71h799_upload0.png",
+          "filename": "upload0.png",
+          "size": 235883,
+          "type": "image/png",
+          "thumbnails": {
+            "small": {
+              "url": "https://dl.airtable.com/MFR1lJM2RqmvKtt0UWYZ_small_upload0.png",
+              "width": 57,
+              "height": 36
+            },
+            "large": {
+              "url": "https://dl.airtable.com/LNR8XeIjTOmWwSMiYEi0_large_upload0.png",
+              "width": 512,
+              "height": 441
+            }
+          }
+        },
+        {
+          "id": "attUmBPAPhEdkGgM1",
+          "url": "https://dl.airtable.com/uACKM5x3QwaxlJrFt8Fq_701ee79e-7f42-11e6-9262-99a54a7caf91.png",
+          "filename": "701ee79e-7f42-11e6-9262-99a54a7caf91.png",
+          "size": 2004787,
+          "type": "image/png",
+          "thumbnails": {
+            "small": {
+              "url": "https://dl.airtable.com/NhCn3gVlQSOq6Xt3eg0I_small_701ee79e-7f42-11e6-9262-99a54a7caf91.png",
+              "width": 39,
+              "height": 36
+            },
+            "large": {
+              "url": "https://dl.airtable.com/R7S1DkMDSASgiUfrywwA_large_701ee79e-7f42-11e6-9262-99a54a7caf91.png",
+              "width": 512,
+              "height": 512
+            }
+          }
+        },
+        {
+          "id": "attiBAyt0Q35O7IJw",
+          "url": "https://dl.airtable.com/p3ee4Qp0Qkb81iUry5vQ_3c89ca92-7f8e-11e6-8ade-2ad4dccb03d6.png",
+          "filename": "3c89ca92-7f8e-11e6-8ade-2ad4dccb03d6.png",
+          "size": 520754,
+          "type": "image/png",
+          "thumbnails": {
+            "small": {
+              "url": "https://dl.airtable.com/HdeLyBzPRPSiG1H93qtp_small_3c89ca92-7f8e-11e6-8ade-2ad4dccb03d6.png",
+              "width": 42,
+              "height": 36
+            },
+            "large": {
+              "url": "https://dl.airtable.com/S02ftvLMTLsEF0iaf1wQ_large_3c89ca92-7f8e-11e6-8ade-2ad4dccb03d6.png",
+              "width": 512,
+              "height": 512
+            }
+          }
+        },
+        {
+          "id": "attQC8pvxjPFAn98l",
+          "url": "https://dl.airtable.com/ePIZddrqQaOaPTBiEUp1_c37d8c2e-7f92-11e6-90d1-a9a2f79c5132.png",
+          "filename": "c37d8c2e-7f92-11e6-90d1-a9a2f79c5132.png",
+          "size": 501006,
+          "type": "image/png",
+          "thumbnails": {
+            "small": {
+              "url": "https://dl.airtable.com/ZcsePwQSwq7VcbBSg5sQ_small_c37d8c2e-7f92-11e6-90d1-a9a2f79c5132.png",
+              "width": 66,
+              "height": 36
+            },
+            "large": {
+              "url": "https://dl.airtable.com/nGxqLnecQYeRCqsDaKHg_large_c37d8c2e-7f92-11e6-90d1-a9a2f79c5132.png",
+              "width": 512,
+              "height": 510
+            }
+          }
+        },
+        {
+          "id": "attkdc0Liy2jERhpN",
+          "url": "https://dl.airtable.com/bet6PWpiQaCwqchY533r_138962f0-7f99-11e6-917f-a36ddadf622d.png",
+          "filename": "138962f0-7f99-11e6-917f-a36ddadf622d.png",
+          "size": 381268,
+          "type": "image/png",
+          "thumbnails": {
+            "small": {
+              "url": "https://dl.airtable.com/X6Ysh0UKRNm61Te3cKvP_small_138962f0-7f99-11e6-917f-a36ddadf622d.png",
+              "width": 39,
+              "height": 36
+            },
+            "large": {
+              "url": "https://dl.airtable.com/bWHzCOKFS5WDNJzht5pY_large_138962f0-7f99-11e6-917f-a36ddadf622d.png",
+              "width": 512,
+              "height": 512
+            }
+          }
+        },
+        {
+          "id": "attUQI0ji7T1NghzM",
+          "url": "https://dl.airtable.com/EqfUtPSFOmf2E319EYhw_fcbfcbf6-7f50-11e6-847a-1d7190f12d65.png",
+          "filename": "fcbfcbf6-7f50-11e6-847a-1d7190f12d65.png",
+          "size": 1631905,
+          "type": "image/png",
+          "thumbnails": {
+            "small": {
+              "url": "https://dl.airtable.com/vOFSQ7zFQO2wrulc9Rgi_small_fcbfcbf6-7f50-11e6-847a-1d7190f12d65.png",
+              "width": 39,
+              "height": 36
+            },
+            "large": {
+              "url": "https://dl.airtable.com/lsRNqSYeQtG1dMVNg9nv_large_fcbfcbf6-7f50-11e6-847a-1d7190f12d65.png",
+              "width": 512,
+              "height": 512
+            }
+          }
+        },
+        {
+          "id": "attKcBMC2Vx3PIqEW",
+          "url": "https://dl.airtable.com/wuzN78qJS1KGqjIOT4aY_68747470733a2f2f64337676366c703535716a6171632e636c6f756466726f6e742e6e65742f6974656d732f3239326634373158314a343533643276304930642f496d616765253230323031362d30392d32302532306174253230352e32342e3038253230504d2e706e673f582d436c6f75644170702d56.png",
+          "filename": "68747470733a2f2f64337676366c703535716a6171632e636c6f756466726f6e742e6e65742f6974656d732f3239326634373158314a343533643276304930642f496d616765253230323031362d30392d32302532306174253230352e32342e3038253230504d2e706e673f582d436c6f75644170702d56.png",
+          "size": 1043751,
+          "type": "image/png",
+          "thumbnails": {
+            "small": {
+              "url": "https://dl.airtable.com/vOYPUS8gS0i752v2a4dx_small_68747470733a2f2f64337676366c703535716a6171632e636c6f756466726f6e742e6e65742f6974656d732f3239326634373158314a343533643276304930642f496d616765253230323031362d30392d32302532306174253230352e32342e3038253230504d2e706e673f582d436c6f75644170702d56.png",
+              "width": 40,
+              "height": 36
+            },
+            "large": {
+              "url": "https://dl.airtable.com/p6NHHkfSna47optqr6ZE_large_68747470733a2f2f64337676366c703535716a6171632e636c6f756466726f6e742e6e65742f6974656d732f3239326634373158314a343533643276304930642f496d616765253230323031362d30392d32302532306174253230352e32342e3038253230504d2e706e673f582d436c6f75644170702d56.png",
+              "width": 512,
+              "height": 512
+            }
+          }
+        },
+        {
+          "id": "att2AbxsoPH88aMHl",
+          "url": "https://dl.airtable.com/4gnr1yCsS921H2VNFzLe_16287d1a-800d-11e6-99ff-d2635faa5a34.png",
+          "filename": "16287d1a-800d-11e6-99ff-d2635faa5a34.png",
+          "size": 1260564,
+          "type": "image/png",
+          "thumbnails": {
+            "small": {
+              "url": "https://dl.airtable.com/O3fqLFEWQxOshxqvMrd9_small_16287d1a-800d-11e6-99ff-d2635faa5a34.png",
+              "width": 43,
+              "height": 36
+            },
+            "large": {
+              "url": "https://dl.airtable.com/dTgeOKnqRwCaJIRQXIRt_large_16287d1a-800d-11e6-99ff-d2635faa5a34.png",
+              "width": 512,
+              "height": 512
+            }
+          }
+        },
+        {
+          "id": "attAjcyvwxNnqwJXz",
+          "url": "https://dl.airtable.com/TVHoZN3ROsEaKWCKKigy_58f01474-81fb-11e6-8355-ebb324a742e8.png",
+          "filename": "58f01474-81fb-11e6-8355-ebb324a742e8.png",
+          "size": 208873,
+          "type": "image/png",
+          "thumbnails": {
+            "small": {
+              "url": "https://dl.airtable.com/Zwe3sN0LRRqUlXcq98Bm_small_58f01474-81fb-11e6-8355-ebb324a742e8.png",
+              "width": 34,
+              "height": 36
+            },
+            "large": {
+              "url": "https://dl.airtable.com/PD9pItrNQOymy08kclZ0_large_58f01474-81fb-11e6-8355-ebb324a742e8.png",
+              "width": 512,
+              "height": 512
+            }
+          }
+        },
+        {
+          "id": "attneR2XH9tpiuPxE",
+          "url": "https://dl.airtable.com/wKG1ZIJbSvil3RQGnzDH_9d67bdc4-8204-11e6-9413-a8b06f147fee.png",
+          "filename": "9d67bdc4-8204-11e6-9413-a8b06f147fee.png",
+          "size": 156902,
+          "type": "image/png",
+          "thumbnails": {
+            "small": {
+              "url": "https://dl.airtable.com/qCrQUpBtSfSkjiYVIDiZ_small_9d67bdc4-8204-11e6-9413-a8b06f147fee.png",
+              "width": 54,
+              "height": 36
+            },
+            "large": {
+              "url": "https://dl.airtable.com/anJqCfzHTFePJzhaOU8A_large_9d67bdc4-8204-11e6-9413-a8b06f147fee.png",
+              "width": 512,
+              "height": 512
+            }
+          }
+        },
+        {
+          "id": "attWtlHs7P7cwG1TS",
+          "url": "https://dl.airtable.com/892KE2taQ1WGU2XPcpv6_68747470733a2f2f7062732e7477696d672e636f6d2f6d656469612f4374456f47566b56494141627132782e6a7067.jpeg",
+          "filename": "68747470733a2f2f7062732e7477696d672e636f6d2f6d656469612f4374456f47566b56494141627132782e6a7067.jpeg",
+          "size": 85672,
+          "type": "image/jpeg",
+          "thumbnails": {
+            "small": {
+              "url": "https://dl.airtable.com/ENDsbFWtRTWnpiR8Brbg_small_68747470733a2f2f7062732e7477696d672e636f6d2f6d656469612f4374456f47566b56494141627132782e6a7067.jpeg",
+              "width": 57,
+              "height": 36
+            },
+            "large": {
+              "url": "https://dl.airtable.com/kFmLIRCQdCksRFuLx9ae_large_68747470733a2f2f7062732e7477696d672e636f6d2f6d656469612f4374456f47566b56494141627132782e6a7067.jpeg",
+              "width": 512,
+              "height": 512
+            }
+          }
+        },
+        {
+          "id": "atts5yIlPkhvX6T8s",
+          "url": "https://dl.airtable.com/Btbd1LOSjl6fk3gum1QZ_68747470733a2f2f7062732e7477696d672e636f6d2f6d656469612f43744a396662375545414163502d332e6a7067.jpeg",
+          "filename": "68747470733a2f2f7062732e7477696d672e636f6d2f6d656469612f43744a396662375545414163502d332e6a7067.jpeg",
+          "size": 130913,
+          "type": "image/jpeg",
+          "thumbnails": {
+            "small": {
+              "url": "https://dl.airtable.com/Hfibw5QQq3BAU34EuHVQ_small_68747470733a2f2f7062732e7477696d672e636f6d2f6d656469612f43744a396662375545414163502d332e6a7067.jpeg",
+              "width": 47,
+              "height": 36
+            },
+            "large": {
+              "url": "https://dl.airtable.com/S6CYXcKzRu6gcrVyE6y6_large_68747470733a2f2f7062732e7477696d672e636f6d2f6d656469612f43744a396662375545414163502d332e6a7067.jpeg",
+              "width": 512,
+              "height": 512
+            }
+          }
+        },
+        {
+          "id": "attXszpHc0nghJ5ID",
+          "url": "https://dl.airtable.com/pVFKoYGfSESdiiIHQAk0_701ee79e-7f42-11e6-9262-99a54a7caf91%20(1).png",
+          "filename": "701ee79e-7f42-11e6-9262-99a54a7caf91 (1).png",
+          "size": 2004787,
+          "type": "image/png",
+          "thumbnails": {
+            "small": {
+              "url": "https://dl.airtable.com/lMEYxSLQamWWtzSyjmqy_small_701ee79e-7f42-11e6-9262-99a54a7caf91%20(1).png",
+              "width": 39,
+              "height": 36
+            },
+            "large": {
+              "url": "https://dl.airtable.com/rDN7X1mRxKqqb4zr0um1_large_701ee79e-7f42-11e6-9262-99a54a7caf91%20(1).png",
+              "width": 512,
+              "height": 512
+            }
+          }
+        },
+        {
+          "id": "atthZIdVFiu4bBPo6",
+          "url": "https://dl.airtable.com/2lKp9d2oS7CTQyVba4fk_b9d6a87c-a021-11e6-8977-9d1ce8a188df.png",
+          "filename": "b9d6a87c-a021-11e6-8977-9d1ce8a188df.png",
+          "size": 405592,
+          "type": "image/png",
+          "thumbnails": {
+            "small": {
+              "url": "https://dl.airtable.com/cactc5LRTaSfmEqI5nUP_small_b9d6a87c-a021-11e6-8977-9d1ce8a188df.png",
+              "width": 45,
+              "height": 36
+            },
+            "large": {
+              "url": "https://dl.airtable.com/m8YQrVyWSeaIeAVjLwlP_large_b9d6a87c-a021-11e6-8977-9d1ce8a188df.png",
+              "width": 512,
+              "height": 512
+            }
+          }
+        },
+        {
+          "id": "attCjflNstHHTgITi",
+          "url": "https://dl.airtable.com/HU4j15PMQkn1o0EG6YZS_d3229e76-a021-11e6-84a8-ee273a79ff2d.png",
+          "filename": "d3229e76-a021-11e6-84a8-ee273a79ff2d.png",
+          "size": 101409,
+          "type": "image/png",
+          "thumbnails": {
+            "small": {
+              "url": "https://dl.airtable.com/FjVLlQKRTSvmQqfYZLLM_small_d3229e76-a021-11e6-84a8-ee273a79ff2d.png",
+              "width": 47,
+              "height": 36
+            },
+            "large": {
+              "url": "https://dl.airtable.com/K10hH7FTQhuCKz6eAUA0_large_d3229e76-a021-11e6-84a8-ee273a79ff2d.png",
+              "width": 512,
+              "height": 399
+            }
+          }
+        },
+        {
+          "id": "att971h5zJSkE0rcb",
+          "url": "https://dl.airtable.com/7QAk3L7TxaOlINR2nAy8_11b48a32-a022-11e6-8526-76feff801726.png",
+          "filename": "11b48a32-a022-11e6-8526-76feff801726.png",
+          "size": 183468,
+          "type": "image/png",
+          "thumbnails": {
+            "small": {
+              "url": "https://dl.airtable.com/fRT7cSAREqP3sfbxWwTd_small_11b48a32-a022-11e6-8526-76feff801726.png",
+              "width": 32,
+              "height": 36
+            },
+            "large": {
+              "url": "https://dl.airtable.com/QXzBw5OwQvG50IRtfbcp_large_11b48a32-a022-11e6-8526-76feff801726.png",
+              "width": 512,
+              "height": 512
+            }
+          }
+        },
+        {
+          "id": "atthlLmpTOTJ5y6Zi",
+          "url": "https://dl.airtable.com/GSSaJDLXSCmOt0TiyDFd_b8ff1d8a-ad28-11e6-937b-4f6d83b59e2b.png",
+          "filename": "b8ff1d8a-ad28-11e6-937b-4f6d83b59e2b.png",
+          "size": 358077,
+          "type": "image/png",
+          "thumbnails": {
+            "small": {
+              "url": "https://dl.airtable.com/9u3n8PyRqKNO70aQxKWK_small_b8ff1d8a-ad28-11e6-937b-4f6d83b59e2b.png",
+              "width": 39,
+              "height": 36
+            },
+            "large": {
+              "url": "https://dl.airtable.com/5IkLjMjjTYqTRjM40MWs_large_b8ff1d8a-ad28-11e6-937b-4f6d83b59e2b.png",
+              "width": 512,
+              "height": 512
+            }
+          }
+        }
+      ],
+      "case_study_or_landing_page_urls": "https://blog.mozvr.com/a-painter/",
+      "videos": [
+        {
+          "id": "atty6Bb9oAcfQVM8X",
+          "url": "https://dl.airtable.com/yTgq7cOWTpiQXi98yX3V_giphy.mp4",
+          "filename": "giphy.mp4",
+          "size": 73499,
+          "type": "video/mp4"
+        }
+      ],
+      "webvr_api_version_support": 1.1,
+      "featured": true,
+      "evaluation": "chromium + rift:renders into headset, controllers not working.",
+      "slug": "a_painter"
+    },
+    "createdTime": "2016-10-24T22:19:34.000Z"
+  },
+  {
+    "id": "recIeKmwH5HJcyib4",
+    "fields": {
+      "name": "WebVR Samples: XX - VR Controllers",
+      "url": "https://webvr.info/samples/XX-vr-controllers.html",
+      "description": "This sample demonstrates how to handle gamepads with 6DoF support, such as the Vive controllers or Oculus touch. PLEASE NOTE: The additions to the Gamepad API used here are not yet part of the standard and are subject to change at any time!",
+      "compat_reports": [
+        "recO7i6brRTrlreiJ"
+      ],
+      "slug": "webvr_samples_XX_vr_controllers"
+    },
+    "createdTime": "2017-01-05T07:09:41.000Z"
+  },
+  {
+    "id": "recJ3UTEkT1UP8efa",
+    "fields": {
+      "name": "Plane Fields (1)",
+      "url": "http://www.math.miami.edu/~kenken/webvr/ctctplanes.html",
+      "case_study_or_landing_page_urls": "http://www.math.miami.edu/~kenken/planesight.html",
+      "slug": "plane_fields_ctctplanes"
+    },
+    "createdTime": "2016-11-10T01:01:52.000Z"
+  },
+  {
+    "id": "recJsSzhvGhkuI7BQ",
+    "fields": {
+      "name": "Night Eyes",
+      "url": "http://christmasexperiments.com/2016/01/night-eye/",
+      "description": "Nightscape experiment with lights",
+      "authors": [
+        "rectGkEpbROay9J6V"
+      ],
+      "support_for_htc_vive": "untested",
+      "screenshots": [
+        {
+          "id": "attKgJFVi5MGIPZnY",
+          "url": "https://dl.airtable.com/3419HQmnRwCvTbXJZhJs_night-eyes.png",
+          "filename": "night-eyes.png",
+          "size": 98586,
+          "type": "image/png",
+          "thumbnails": {
+            "small": {
+              "url": "https://dl.airtable.com/go4kZjROK00Vmd4hJQAw_small_night-eyes.png",
+              "width": 58,
+              "height": 36
+            },
+            "large": {
+              "url": "https://dl.airtable.com/zPxgC8nSbOA8p7WI0qmU_large_night-eyes.png",
+              "width": 400,
+              "height": 250
+            }
+          }
+        }
+      ],
+      "support_for_htc_vive_controllers": [
+        "untested"
+      ],
+      "support_for_positional": [
+        "untested"
+      ],
+      "support_for_roomscale": [
+        "untested"
+      ],
+      "support_for_standing": [
+        "untested"
+      ],
+      "support_for_oculus_touch_controllers": [
+        "untested"
+      ],
+      "support_for_oculus_rift": "untested",
+      "support_for_google_daydream": "untested",
+      "support_for_osvr_hdk2": "untested",
+      "support_for_google_cardboard_android": "untested",
+      "support_for_google_cardboard_ios copy": "untested",
+      "featured": true,
+      "support_for_google_daydream_controller": [
+        "untested"
+      ],
+      "support_for_leap_motion": [
+        "untested"
+      ],
+      "slug": "night_eyes"
+    },
+    "createdTime": "2016-12-16T07:04:11.000Z"
+  },
+  {
+    "id": "recJzGqpbthPZ6tZe",
+    "fields": {
+      "name": "WebVR Mark Avatar",
+      "url": "https://unboring.net/lab/avatar/",
+      "authors": [
+        "recA94YD38mEiWQdC"
+      ],
+      "screenshots": [
+        {
+          "id": "att7E2vj2qSQvGIf4",
+          "url": "https://dl.airtable.com/gcFU31iTQctT1Qd0Oaxg_avatar-mark-carmel.png",
+          "filename": "avatar-mark-carmel.png",
+          "size": 289421,
+          "type": "image/png",
+          "thumbnails": {
+            "small": {
+              "url": "https://dl.airtable.com/8v1bPqQvS2S6L6jd4iAK_small_avatar-mark-carmel.png",
+              "width": 71,
+              "height": 36
+            },
+            "large": {
+              "url": "https://dl.airtable.com/VmCue4rFQ1mOHNFcK6Ug_large_avatar-mark-carmel.png",
+              "width": 512,
+              "height": 512
+            }
+          }
+        }
+      ],
+      "slug": "mark_avatar"
+    },
+    "createdTime": "2016-12-16T12:53:42.000Z"
+  },
+  {
+    "id": "recKT5lF4nKBlnTIt",
+    "fields": {
+      "name": "Marpi Worlds 2: Natasya",
+      "url": "http://classes.marpi.pl/worlds2/natasya/",
+      "authors": [
+        "rec6TmVZuUDPR54MM"
+      ],
+      "tags": [
+        "workshop",
+        "experiment"
+      ],
+      "slug": "marpi_worlds2_natasya"
+    },
+    "createdTime": "2016-12-16T13:05:49.000Z"
+  },
+  {
+    "id": "recKUR6WcM12ARFrT",
+    "fields": {
+      "name": "2017 Holiday Snow Globe",
+      "url": "http://2017.ronikdesign.com/",
+      "description": "Take a ride around a NYC snow globe in virtual reality.",
+      "tags": [
+        "locomotion",
+        "travel"
+      ],
+      "dependencies": [
+        "three.js",
+        "webvr-polyfill",
+        "aframe"
+      ],
+      "genres": [
+        "art"
+      ],
+      "support_for_htc_vive": "mediocre",
+      "uses_frameworks": [
+        "A-Frame",
+        "three.js"
+      ],
+      "screenshots": [
+        {
+          "id": "atttdCnWnMc3XAvKn",
+          "url": "https://dl.airtable.com/kZdE7y5iQjiP1OqDjkrj_upload1.png",
+          "filename": "upload1.png",
+          "size": 212412,
+          "type": "image/png",
+          "thumbnails": {
+            "small": {
+              "url": "https://dl.airtable.com/vT5SJWlCQwCiPuctFu6o_small_upload1.png",
+              "width": 64,
+              "height": 36
+            },
+            "large": {
+              "url": "https://dl.airtable.com/FmBJSWThqQEOVDEWlhjQ_large_upload1.png",
+              "width": 512,
+              "height": 395
+            }
+          }
+        },
+        {
+          "id": "attKzlRj1B5z1xAnU",
+          "url": "https://dl.airtable.com/3DXl2uVTGvOHFstfAuEg_upload0.png",
+          "filename": "upload0.png",
+          "size": 218782,
+          "type": "image/png",
+          "thumbnails": {
+            "small": {
+              "url": "https://dl.airtable.com/I8Ciu2LTEa0VxQphfYBg_small_upload0.png",
+              "width": 64,
+              "height": 36
+            },
+            "large": {
+              "url": "https://dl.airtable.com/BW4BScV3SUDtAVon6s5m_large_upload0.png",
+              "width": 512,
+              "height": 394
+            }
+          }
+        },
+        {
+          "id": "attJ11rRPguYDwocR",
+          "url": "https://dl.airtable.com/hxKfJdcZTGCI99gB8k1S_nyc-snow-globe.png",
+          "filename": "nyc-snow-globe.png",
+          "size": 78521,
+          "type": "image/png",
+          "thumbnails": {
+            "small": {
+              "url": "https://dl.airtable.com/Nk40rIC5ROSxYV5cmIDk_small_nyc-snow-globe.png",
+              "width": 64,
+              "height": 36
+            },
+            "large": {
+              "url": "https://dl.airtable.com/91ShCRnWRCWSCXoqxqFs_large_nyc-snow-globe.png",
+              "width": 400,
+              "height": 226
+            }
+          }
+        }
+      ],
+      "videos": [
+        {
+          "id": "att3SwAwemgV2m60f",
+          "url": "https://dl.airtable.com/EAcfrbKuSTGGSiPFAojo_giphy.mp4",
+          "filename": "giphy.mp4",
+          "size": 684331,
+          "type": "video/mp4"
+        }
+      ],
+      "notes": "A-frame Version: 0.4.0\nthree Version: ^0.82.1\nWebVR Polyfill Version: ^0.9.23",
+      "webvr_api_version_support": 1.1,
+      "support_for_htc_vive_controllers": [
+        "none"
+      ],
+      "support_for_positional": [
+        "yes"
+      ],
+      "support_for_roomscale": [
+        "none"
+      ],
+      "support_for_standing": [
+        "yes"
+      ],
+      "support_for_leap_motion": [
+        "none"
+      ],
+      "compat_reports": [
+        "recwvA4D30800cEv6"
+      ],
+      "slug": "ronik_holiday_snow_globe_2017"
+    },
+    "createdTime": "2017-01-06T01:13:12.000Z"
+  },
+  {
+    "id": "recLE8WHJfgrtDLhH",
+    "fields": {
+      "name": "Shader Toy: Catacombs",
+      "url": "https://www.shadertoy.com/view/lsf3zr",
+      "description": "Porting my old Slisesix procedural image, and improving it. ",
+      "authors": [
+        "recorj9n4zeW7yaaI"
+      ],
+      "tags": [
+        "shader",
+        "procedural",
+        "raymarching",
+        "distancefield"
+      ],
+      "source_code_url": "https://www.shadertoy.com/view/lsf3zr",
+      "date_released": "2013-03-10T08:00:00.000Z",
+      "uses_frameworks": [
+        "Shadertoy"
+      ],
+      "case_study_or_landing_page_urls": "https://www.shadertoy.com/view/lsf3zr",
+      "slug": "shader_toy_catacombs"
+    },
+    "createdTime": "2016-10-25T11:35:07.000Z"
+  },
+  {
+    "id": "recLfrR5C18nCKYQt",
+    "fields": {
+      "name": "Oculus Rex",
+      "url": "http://oculus-rex.com/",
+      "slug": "oculus_rex"
+    },
+    "createdTime": "2016-11-03T03:55:30.000Z"
+  },
+  {
+    "id": "recM6HzWZhxLQBLL7",
+    "fields": {
+      "name": "WebVR Samples: 01 - VR Input",
+      "url": "https://webvr.info/samples/01-vr-input.html",
+      "description": "This sample demonstrates how to use the pose information from a VRDisplay to control the view of a WebGL scene. Nothing is presented to the VRDisplay.",
+      "compat_reports": [
+        "reckSyXrfT3PY7qfz"
+      ],
+      "slug": "webvr_samples_01_vr_input"
+    },
+    "createdTime": "2017-01-05T06:53:18.000Z"
+  },
+  {
+    "id": "recNd0l39p94cMCvb",
+    "fields": {
+      "name": "WebVR Samples: Test - Slow GPU and JavaScript",
+      "url": "https://webvr.info/samples/test-slow-render.html?heavyGpu=1&workTime=48",
+      "description": "This test attempts to stress-test the GPU and simulate a heavy JavaScvript workload so that WebVR implementations gauge how well they handle that scenario.",
+      "compat_reports": [
+        "recZINrnlz5tWIRqU"
+      ],
+      "slug": "webvr_samples_test_slow_render_heavy_gpu_long_work"
+    },
+    "createdTime": "2017-01-05T07:10:43.000Z"
+  },
+  {
+    "id": "recO2picy0Wjhb454",
+    "fields": {
+      "name": "Sketchfab: Mars One",
+      "url": "https://sketchfab.com/models/83ced347037f47aba8473147d65df074",
+      "description": "Teleport yourself around Mars",
+      "authors": [
+        "recthGeAaQ8XxthlF"
+      ],
+      "tags": [
+        "3d",
+        "model",
+        "sketchfab"
+      ],
+      "screenshots": [
+        {
+          "id": "attqMzQJBYaT5fkU3",
+          "url": "https://dl.airtable.com/HM0UIEfSRmCbc3zutPRh_marsone.png",
+          "filename": "marsone.png",
+          "size": 5974478,
+          "type": "image/png",
+          "thumbnails": {
+            "small": {
+              "url": "https://dl.airtable.com/Ce8SHWxRq4LcSltwJNng_small_marsone.png",
+              "width": 58,
+              "height": 36
+            },
+            "large": {
+              "url": "https://dl.airtable.com/zVmCH22qQsGvpqxRFGwM_large_marsone.png",
+              "width": 512,
+              "height": 512
+            }
+          }
+        }
+      ],
+      "featured": true,
+      "slug": "sketchfab_mars_one"
+    },
+    "createdTime": "2016-12-16T13:07:05.000Z"
+  },
+  {
+    "id": "recO4Y44HRmt7lecM",
+    "fields": {
+      "name": "Marpi Worlds 2: Elisa",
+      "url": "http://classes.marpi.pl/worlds2/elisa/",
+      "authors": [
+        "rec6TmVZuUDPR54MM"
+      ],
+      "tags": [
+        "workshop",
+        "experiment"
+      ],
+      "slug": "marpi_worlds2_elisa"
+    },
+    "createdTime": "2016-12-16T13:05:49.000Z"
+  },
+  {
+    "id": "recO6iw1mMxMbQDIu",
+    "fields": {
+      "name": "Dark Haze",
+      "url": "https://christmasexperiments.com/2016/24/dark-haze/",
+      "description": "Where dust, smoke and other dry particles obscure the clarity of the sky.",
+      "authors": [
+        "rec6TmVZuUDPR54MM",
+        "rectmTNJdniMbPUoQ",
+        "recHqug4fx2JyfXqx",
+        "recmBpQRVCGDTKoVT"
+      ],
+      "tags": [
+        "christmas",
+        "christmasexperiments",
+        "particles"
+      ],
+      "screenshots": [
+        {
+          "id": "attbWV9uAL9kNphE8",
+          "url": "https://dl.airtable.com/AmXZoKA2SWCeWui6yd9b_twitter.jpg",
+          "filename": "twitter.jpg",
+          "size": 171021,
+          "type": "image/jpeg"
+        },
+        {
+          "id": "attzNakUTYLCBR8Zt",
+          "url": "https://dl.airtable.com/wDETUYa7TtSDYlZsPTd0_fb.jpg",
+          "filename": "fb.jpg",
+          "size": 239147,
+          "type": "image/jpeg",
+          "thumbnails": {
+            "small": {
+              "url": "https://dl.airtable.com/pjH0LPb4QaiiB0h2cZVS_small_fb.jpg",
+              "width": 69,
+              "height": 36
+            },
+            "large": {
+              "url": "https://dl.airtable.com/C0re64U4RZqsvMKO4qtz_large_fb.jpg",
+              "width": 512,
+              "height": 512
+            }
+          }
+        },
+        {
+          "id": "att5L14sS3ytK9ZRv",
+          "url": "https://dl.airtable.com/ihLUqItoTqKE2pQvuBI7_dh6%2Clarge.2x.1482557362.jpg",
+          "filename": "dh6,large.2x.1482557362.jpg",
+          "size": 183936,
+          "type": "image/jpeg",
+          "thumbnails": {
+            "small": {
+              "url": "https://dl.airtable.com/LDYiJ72mTxv8D93iOjAt_small_dh6%2Clarge.2x.1482557362.jpg",
+              "width": 59,
+              "height": 36
+            },
+            "large": {
+              "url": "https://dl.airtable.com/GmDcrNYETwaEjIQJXiee_large_dh6%2Clarge.2x.1482557362.jpg",
+              "width": 512,
+              "height": 512
+            }
+          }
+        },
+        {
+          "id": "attGrSpqKDfVw5lNF",
+          "url": "https://dl.airtable.com/E02HKJCzTXSMu8xKemtt_dh5%2Clarge.2x.1482557354.jpg",
+          "filename": "dh5,large.2x.1482557354.jpg",
+          "size": 190519,
+          "type": "image/jpeg",
+          "thumbnails": {
+            "small": {
+              "url": "https://dl.airtable.com/MswVfVQe6DMo6Jmkgj5w_small_dh5%2Clarge.2x.1482557354.jpg",
+              "width": 63,
+              "height": 36
+            },
+            "large": {
+              "url": "https://dl.airtable.com/mQ5WNWHpSIWUOKe790z5_large_dh5%2Clarge.2x.1482557354.jpg",
+              "width": 512,
+              "height": 512
+            }
+          }
+        },
+        {
+          "id": "attn5ANAICOjARBhA",
+          "url": "https://dl.airtable.com/lojAocvDRLuH3iFhYcGq_dh4%2Clarge.2x.1482557346.jpg",
+          "filename": "dh4,large.2x.1482557346.jpg",
+          "size": 189605,
+          "type": "image/jpeg",
+          "thumbnails": {
+            "small": {
+              "url": "https://dl.airtable.com/Q4e3P88CSbKdY4ei3Jl0_small_dh4%2Clarge.2x.1482557346.jpg",
+              "width": 60,
+              "height": 36
+            },
+            "large": {
+              "url": "https://dl.airtable.com/nkcCorXqRpSWGiswh961_large_dh4%2Clarge.2x.1482557346.jpg",
+              "width": 512,
+              "height": 512
+            }
+          }
+        },
+        {
+          "id": "attH1iOUeN0FeLcEY",
+          "url": "https://dl.airtable.com/TvVPayZYQo2IJ8q6tl3m_dh3%2Clarge.2x.1482557338.jpg",
+          "filename": "dh3,large.2x.1482557338.jpg",
+          "size": 186708,
+          "type": "image/jpeg",
+          "thumbnails": {
+            "small": {
+              "url": "https://dl.airtable.com/Iq1m9IeoRZaznMknpysd_small_dh3%2Clarge.2x.1482557338.jpg",
+              "width": 60,
+              "height": 36
+            },
+            "large": {
+              "url": "https://dl.airtable.com/etbSj3kxS0av4aMW4HZm_large_dh3%2Clarge.2x.1482557338.jpg",
+              "width": 512,
+              "height": 512
+            }
+          }
+        },
+        {
+          "id": "attSImibRAz2DaTcN",
+          "url": "https://dl.airtable.com/HbM1XnBSRP2CdGYmfa1K_dh2%2Clarge.2x.1482557331.jpg",
+          "filename": "dh2,large.2x.1482557331.jpg",
+          "size": 179538,
+          "type": "image/jpeg",
+          "thumbnails": {
+            "small": {
+              "url": "https://dl.airtable.com/h7SjYkZuTbeg25XRjzrZ_small_dh2%2Clarge.2x.1482557331.jpg",
+              "width": 63,
+              "height": 36
+            },
+            "large": {
+              "url": "https://dl.airtable.com/609HFJviSxKWSAgQ3HYv_large_dh2%2Clarge.2x.1482557331.jpg",
+              "width": 512,
+              "height": 512
+            }
+          }
+        },
+        {
+          "id": "attMb0kOYYTQ2zrNc",
+          "url": "https://dl.airtable.com/BEh8wauYQ96wqMCDiw2z_dh1%2Clarge.2x.1482557323.jpg",
+          "filename": "dh1,large.2x.1482557323.jpg",
+          "size": 179093,
+          "type": "image/jpeg",
+          "thumbnails": {
+            "small": {
+              "url": "https://dl.airtable.com/bdLR3g6cSTCKVckvn9iE_small_dh1%2Clarge.2x.1482557323.jpg",
+              "width": 67,
+              "height": 36
+            },
+            "large": {
+              "url": "https://dl.airtable.com/1PfnWUBpRjC2yqO89t3f_large_dh1%2Clarge.2x.1482557323.jpg",
+              "width": 512,
+              "height": 512
+            }
+          }
+        }
+      ],
+      "case_study_or_landing_page_urls": "http://marpi.pl/work/dark-haze/",
+      "videos": [
+        {
+          "id": "att9BoC8Ae70rcY2U",
+          "url": "https://dl.airtable.com/eoFrI0CjTQeZkIOqIXlt_video.mp4",
+          "filename": "video.mp4",
+          "size": 379684,
+          "type": "video/mp4"
+        }
+      ],
+      "featured": true,
+      "compat_reports": [
+        "recZ1xhnduKWSrWpP"
+      ],
+      "slug": "dark_haze"
+    },
+    "createdTime": "2017-01-06T02:00:09.000Z"
+  },
+  {
+    "id": "recOHtRc0Url5MOMB",
+    "fields": {
+      "name": "JanusWeb",
+      "url": "https://janusweb.metacade.com/",
+      "authors": [
+        "rec1UFDpgdrG2HABd"
+      ],
+      "source_code_url": "https://github.com/jbaicoianu/janusweb",
+      "slug": "janus_web"
+    },
+    "createdTime": "2016-10-25T11:42:39.000Z"
+  },
+  {
+    "id": "recOjwIuStBimcfaO",
+    "fields": {
+      "name": "Shader Toy: Clouds",
+      "url": "https://www.shadertoy.com/view/XslGRr",
+      "description": "Raymarching some fbm (you can move the mouse around). This is my first shader in the \"one shader a week for a year\" challenge that I have committed to.",
+      "authors": [
+        "recorj9n4zeW7yaaI"
+      ],
+      "tags": [
+        "procedural",
+        "volumetric",
+        "lod",
+        "shader"
+      ],
+      "source_code_url": "https://www.shadertoy.com/view/XslGRr",
+      "date_released": "2013-02-25T08:00:00.000Z",
+      "uses_frameworks": [
+        "Shadertoy"
+      ],
+      "case_study_or_landing_page_urls": "https://www.shadertoy.com/view/XslGRr\nhttps://www.shadertoy.com/results?filter=vr",
+      "notes": "document.querySelector('myVR').click();\ndocument.querySelector('myFullScreen').click();\n",
+      "slug": "shader_toy_clouds"
+    },
+    "createdTime": "2016-10-25T11:20:54.000Z"
+  },
+  {
+    "id": "recPEN9Oks744AKL6",
+    "fields": {
+      "name": "Fear of the Sky",
+      "url": "http://360syria.com/",
+      "slug": "fear_of_the_sky"
+    },
+    "createdTime": "2016-11-02T09:02:28.000Z"
+  },
+  {
+    "id": "recPU1C2TfBc5EKqX",
+    "fields": {
+      "name": "BP TEX Village",
+      "url": "http://vr.getid.org/village/",
+      "slug": "bp_tex_village"
+    },
+    "createdTime": "2016-10-25T11:08:54.000Z"
+  },
+  {
+    "id": "recPb1Tf5xk2RVyci",
+    "fields": {
+      "name": "Immersive Workshop: donut",
+      "url": "http://classes.marpi.pl/immersive/public/donut",
+      "authors": [
+        "rec6TmVZuUDPR54MM"
+      ],
+      "tags": [
+        "workshop",
+        "experiment"
+      ],
+      "slug": "immersive_workshop_donut"
+    },
+    "createdTime": "2016-12-16T10:57:04.000Z"
+  },
+  {
+    "id": "recPoCDmMJOwno24U",
+    "fields": {
+      "name": "Marpi Worlds 2: Angela",
+      "url": "http://classes.marpi.pl/worlds2/angela/",
+      "authors": [
+        "rec6TmVZuUDPR54MM"
+      ],
+      "tags": [
+        "workshop",
+        "experiment"
+      ],
+      "slug": "marpi_worlds2_angela"
+    },
+    "createdTime": "2016-12-16T13:05:49.000Z"
+  },
+  {
+    "id": "recQnKg58CnPyIV5F",
+    "fields": {
+      "name": "Shader Toy: Sprout",
+      "url": "https://www.shadertoy.com/view/lsXGzH",
+      "description": "An experiment with raymarching and refraction.\nClick window and move mouse to rotate.",
+      "authors": [
+        "rech8mWzxhj77xILW"
+      ],
+      "tags": [
+        "raymarching",
+        "transparency",
+        "refraction",
+        "water",
+        "shader"
+      ],
+      "source_code_url": "https://www.shadertoy.com/view/lsXGzH",
+      "uses_frameworks": [
+        "Shadertoy"
+      ],
+      "case_study_or_landing_page_urls": "https://www.shadertoy.com/view/lsXGzH",
+      "slug": "shader_toy_sprout"
+    },
+    "createdTime": "2016-10-25T11:36:33.000Z"
+  },
+  {
+    "id": "recR5npGe85G5C29t",
+    "fields": {
+      "name": "GuriVR",
+      "url": "https://gurivr.com/",
+      "authors": [
+        "recJjaZtV3c5Jyu1P"
+      ],
+      "source_code_url": "https://github.com/opennewslabs/guri-vr",
+      "case_study_or_landing_page_urls": "https://gurivr.com/guide\nhttps://github.com/OpenNewsLabs/guri-tweetbot",
+      "featured": true,
+      "slug": "gurivr"
+    },
+    "createdTime": "2016-10-26T12:09:52.000Z"
+  },
+  {
+    "id": "recRZ4X5UMiaoE8Vx",
+    "fields": {
+      "name": "Do Websites Dream of Virtual Reality?",
+      "url": "http://awwwards.unboring.net/",
+      "webvr_api_version_support": 0.9,
+      "slug": "do_dreams_dream_of_vr"
+    },
+    "createdTime": "2016-10-25T10:59:32.000Z"
+  },
+  {
+    "id": "recRoCcTy8zcKYpJW",
+    "fields": {
+      "name": "Lick the Whisk",
+      "url": "https://samsunginter.net/a-frame-demos/kitchen/",
+      "description": "Scene for viewing recipes.",
+      "authors": [
+        "recyjJBBNOo43KUdS"
+      ],
+      "aframe_version": "0.3.1",
+      "dependencies": [
+        "aframe",
+        "three.js"
+      ],
+      "notes": "A-Frame Version: 0.3.1\nthree Version: ^0.76.1\nWebVR Polyfill Version: 0.9.15",
+      "featured": true,
+      "threejs_version": "79",
+      "slug": "lick_the_whisk"
+    },
+    "createdTime": "2017-01-06T10:29:19.000Z"
+  },
+  {
+    "id": "recRugtgbIxqNLEWr",
+    "fields": {
+      "name": "WebVR Samples: Test - WebGL 2",
+      "url": "https://webvr.info/samples/03-vr-presentation.html?webgl2=1",
+      "description": "This sample tests VR presentation with WebGL 2. Based off of sample 3.",
+      "compat_reports": [
+        "recAr0U9XHHMBC9YW"
+      ],
+      "slug": "webvr_samples_03_vr_presentation_webgl2"
+    },
+    "createdTime": "2017-01-05T07:10:44.000Z"
+  },
+  {
+    "id": "recS7Qq5Znz65dM3v",
+    "fields": {
+      "name": "Marpi Worlds",
+      "url": "http://classes.marpi.pl/worlds/",
+      "description": "\"Building Virtual Reality Worlds using Three.js\" workshop led by Marpi.",
+      "authors": [
+        "rec6TmVZuUDPR54MM"
+      ],
+      "tags": [
+        "workshop",
+        "experiment"
+      ],
+      "source_code_url": "https://github.com/marpi/worlds",
+      "screenshots": [
+        {
+          "id": "attuNGUs47Ji612Qc",
+          "url": "https://dl.airtable.com/sejcBJ15TFyw5eSLgCYw_worlds.jpg",
+          "filename": "worlds.jpg",
+          "size": 467210,
+          "type": "image/jpeg",
+          "thumbnails": {
+            "small": {
+              "url": "https://dl.airtable.com/iSVdQMcTsWs2Z07db5L1_small_worlds.jpg",
+              "width": 56,
+              "height": 36
+            },
+            "large": {
+              "url": "https://dl.airtable.com/B9PJbLzoSBm3DsrcdoH1_large_worlds.jpg",
+              "width": 512,
+              "height": 512
+            }
+          }
+        }
+      ],
+      "case_study_or_landing_page_urls": "https://github.com/marpi/worlds/tree/master/public",
+      "slug": "marpi_worlds"
+    },
+    "createdTime": "2016-12-16T10:47:14.000Z"
+  },
+  {
+    "id": "recSAFIki09TyeAub",
+    "fields": {
+      "name": "StageVR",
+      "url": "https://jonathanzwhite.github.io/stagevr/",
+      "description": "Practice your next talk on the big stage",
+      "authors": [
+        "recyRSn48ppoFIXgF"
+      ],
+      "screenshots": [
+        {
+          "id": "attT0aDiYl7zEWS9k",
+          "url": "https://dl.airtable.com/ivWQf7leSzq4MS8j1o4E_stagevr.png",
+          "filename": "stagevr.png",
+          "size": 60480,
+          "type": "image/png",
+          "thumbnails": {
+            "small": {
+              "url": "https://dl.airtable.com/7l7BYUcwSeuyntzpFtE5_small_stagevr.png",
+              "width": 58,
+              "height": 36
+            },
+            "large": {
+              "url": "https://dl.airtable.com/uTnmasnS0qFqQeq45ouz_large_stagevr.png",
+              "width": 400,
+              "height": 250
+            }
+          }
+        }
+      ],
+      "featured": true,
+      "slug": "stagevr"
+    },
+    "createdTime": "2016-12-16T13:17:42.000Z"
+  },
+  {
+    "id": "recScjblIOrJm2hdo",
+    "fields": {
+      "name": "I N S P I R I T",
+      "url": "http://inspirit.unboring.net/",
+      "description": "An interactive VR story for everyone",
+      "authors": [
+        "recA94YD38mEiWQdC"
+      ],
+      "screenshots": [
+        {
+          "id": "att2WfcLsM1VsmQYZ",
+          "url": "https://dl.airtable.com/qajD68uOQom26m3AcIbz_share.png",
+          "filename": "share.png",
+          "size": 470679,
+          "type": "image/png",
+          "thumbnails": {
+            "small": {
+              "url": "https://dl.airtable.com/5fCrKoZmSkvsJDkndXOU_small_share.png",
+              "width": 69,
+              "height": 36
+            },
+            "large": {
+              "url": "https://dl.airtable.com/LTdOsN4cQaWYdwxi9Ahi_large_share.png",
+              "width": 512,
+              "height": 512
+            }
+          }
+        },
+        {
+          "id": "att5OsP4xfApvxojt",
+          "url": "https://dl.airtable.com/Jor5bfYYRZa1BqVrPDxf_upload2.png",
+          "filename": "upload2.png",
+          "size": 90819,
+          "type": "image/png",
+          "thumbnails": {
+            "small": {
+              "url": "https://dl.airtable.com/7Lhtr6yQx6Ak0VRxbncw_small_upload2.png",
+              "width": 64,
+              "height": 36
+            },
+            "large": {
+              "url": "https://dl.airtable.com/n0bYRw53ShSOA0ycKMst_large_upload2.png",
+              "width": 512,
+              "height": 394
+            }
+          }
+        },
+        {
+          "id": "attyCnMArH1AYtff4",
+          "url": "https://dl.airtable.com/deXAXfX6R6kmyYPoyDpm_upload1.png",
+          "filename": "upload1.png",
+          "size": 67578,
+          "type": "image/png",
+          "thumbnails": {
+            "small": {
+              "url": "https://dl.airtable.com/kYRJ0aF9QGORhTScShdd_small_upload1.png",
+              "width": 64,
+              "height": 36
+            },
+            "large": {
+              "url": "https://dl.airtable.com/C0nItiK1Tsebg9GcYNtJ_large_upload1.png",
+              "width": 512,
+              "height": 394
+            }
+          }
+        },
+        {
+          "id": "attAJ27TSHUklNtq3",
+          "url": "https://dl.airtable.com/8nHldmARNW6NOcic5UFw_upload0.png",
+          "filename": "upload0.png",
+          "size": 82128,
+          "type": "image/png",
+          "thumbnails": {
+            "small": {
+              "url": "https://dl.airtable.com/hqlLX89YSTN3ybovcZvf_small_upload0.png",
+              "width": 64,
+              "height": 36
+            },
+            "large": {
+              "url": "https://dl.airtable.com/0Gm1G4tjTkGpORNmWKp6_large_upload0.png",
+              "width": 512,
+              "height": 394
+            }
+          }
+        }
+      ],
+      "videos": [
+        {
+          "id": "attpvYeOyq8NxDa21",
+          "url": "https://dl.airtable.com/75Qjrf58TjKVsVaMwU46_giphy.mp4",
+          "filename": "giphy.mp4",
+          "size": 88364,
+          "type": "video/mp4"
+        }
+      ],
+      "webvr_api_version_support": 0.9,
+      "featured": true,
+      "slug": "inspirit"
+    },
+    "createdTime": "2016-10-25T10:59:52.000Z"
+  },
+  {
+    "id": "recTWQQxM93uINV03",
+    "fields": {
+      "name": "PongVR",
+      "url": "https://januskopf.com/pongvr/",
+      "itchio_links": "https://phelicks.itch.io/pongvr",
+      "slug": "pong_vr"
+    },
+    "createdTime": "2016-11-02T09:02:32.000Z"
+  },
+  {
+    "id": "recTrJ5b4zkHqfSw9",
+    "fields": {
+      "name": "Marpi Worlds 2: Stadium",
+      "url": "http://classes.marpi.pl/worlds2/stadium/",
+      "authors": [
+        "rec6TmVZuUDPR54MM"
+      ],
+      "tags": [
+        "workshop",
+        "experiment"
+      ],
+      "slug": "marpi_worlds2_stadium"
+    },
+    "createdTime": "2016-12-16T13:05:49.000Z"
+  },
+  {
+    "id": "recTrjw0nGWuizQQk",
+    "fields": {
+      "name": "VR Batted Ball Visualization",
+      "url": "https://vr-batted-ball-vis.herokuapp.com/index.html",
+      "slug": "vr_batted_ball_vis"
+    },
+    "createdTime": "2016-10-24T23:16:31.000Z"
+  },
+  {
+    "id": "recUD1FMygjFTG3ZZ",
+    "fields": {
+      "name": "Immersive Workshop: stefano",
+      "url": "http://classes.marpi.pl/immersive/public/stefano",
+      "authors": [
+        "rec6TmVZuUDPR54MM",
+        "recamgR7QB5Zq0wNV"
+      ],
+      "tags": [
+        "workshop",
+        "experiment"
+      ],
+      "slug": "immersive_workshop_stefano"
+    },
+    "createdTime": "2016-12-16T10:57:04.000Z"
+  },
+  {
+    "id": "recUsuEYMvhYu8iNR",
+    "fields": {
+      "name": "WebVR Physics",
+      "url": "https://www.clicktorelease.com/tmp/threejs/webvr-physics/",
+      "description": "WebVR Physics experiment",
+      "authors": [
+        "rectmTNJdniMbPUoQ"
+      ],
+      "dependencies": [
+        "three.js"
+      ],
+      "uses_frameworks": [
+        "three.js"
+      ],
+      "slug": "webvr_physics"
+    },
+    "createdTime": "2016-10-14T22:02:59.000Z"
+  },
+  {
+    "id": "recVATLn0yyTy67Kb",
+    "fields": {
+      "name": "WebVR Samples: 02 - Stereo Rendering",
+      "url": "https://webvr.info/samples/02-stereo-rendering.html",
+      "description": "This sample demonstrates how to properly render stereo views of a scene using the VRDisplay's eye paramaters. Nothing is presented to the VRDisplay.",
+      "compat_reports": [
+        "recjq4QQGc3RqHoRZ"
+      ],
+      "slug": "webvr_samples_02_stereo_rendering"
+    },
+    "createdTime": "2017-01-05T06:53:40.000Z"
+  },
+  {
+    "id": "recVMKLDkAboiBMkS",
+    "fields": {
+      "name": "Marpi Worlds 2: Andrej",
+      "url": "http://classes.marpi.pl/worlds2/andrej/",
+      "authors": [
+        "rec6TmVZuUDPR54MM"
+      ],
+      "tags": [
+        "workshop",
+        "experiment"
+      ],
+      "slug": "marpi_worlds2_andrej"
+    },
+    "createdTime": "2016-12-16T13:05:49.000Z"
+  },
+  {
+    "id": "recVRU11gE2Z8mdcN",
+    "fields": {
+      "name": "The Catherine Storr Experience",
+      "url": "http://7s.danfs.co.uk/",
+      "description": "This short introduction to the Catherine Storr archives is a joint project by Newcastle University and Seven Stories, the National Centre for Children's Books. ",
+      "authors": [
+        "recFT4RJYsqWdQfyW",
+        "recTG69OYzv5XIQC7"
+      ],
+      "case_study_or_landing_page_urls": "http://7s.danfs.co.uk/",
+      "notes": "This short introduction to the Catherine Storr archives is a joint project by Newcastle University and Seven Stories, the National Centre for Children's Books. \n\nThis experience is loosely based around Catherine Storr’s novel Marianne Dreams and makes use of the new possibilities offered by modern mobile phones to create an immersive and atmospheric experience. Based in web browser technologies, the 3D scene uses the motion sensors of your mobile phone to allow a natural visual exploration. \n\nThe Catherine Storr Experience contributes to ongoing work in Digital Cultures at Newcastle University’s Culture Lab into the fusion of cultural heritage with new forms of creativity through the use of digital technologies. We hope that this experimental work encourages new experiences of Catherine Storr’s books and the Catherine Storr archive at Seven Stories. \n\nAfter enjoying the interactive Virtual Reality guided tour, you may want to learn more about Catherine Storr, her work, and the material held by Seven Stories. There is a link that will lead you to more detailed information at the end of the tour or alternatively go straight to it by clicking here.",
+      "slug": "catherine_storr_experience"
+    },
+    "createdTime": "2016-11-01T15:44:09.000Z"
+  },
+  {
+    "id": "recVv9Wy9OUg1mDH9",
+    "fields": {
+      "name": "WebVR Copresence",
+      "url": "https://borismus.github.io/copresence-vr/",
+      "authors": [
+        "recSu4fLL4NU9GVPP"
+      ],
+      "tags": [
+        "experiment"
+      ],
+      "source_code_url": "https://github.com/borismus/copresence-vr",
+      "support_for_multiplayer": [
+        "responsive"
+      ],
+      "case_study_or_landing_page_urls": "http://smus.com/copresence-webvr/",
+      "slug": "copresence_vr"
+    },
+    "createdTime": "2016-10-24T22:26:16.000Z"
+  },
+  {
+    "id": "recW2BKuStkMBctnp",
+    "fields": {
+      "name": "Marpi Worlds 2: Andre",
+      "url": "http://classes.marpi.pl/worlds2/andre/",
+      "authors": [
+        "rec6TmVZuUDPR54MM"
+      ],
+      "tags": [
+        "workshop",
+        "experiment"
+      ],
+      "slug": "marpi_worlds2_andre"
+    },
+    "createdTime": "2016-12-16T13:04:13.000Z"
+  },
+  {
+    "id": "recXBWvfL2s6gL0Po",
+    "fields": {
+      "name": "three.js: WebVR Vive Paint",
+      "url": "https://threejs.org/examples/webvr_vive_paint.html",
+      "authors": [
+        "recZfAEEB1FqeKzDr"
+      ],
+      "tags": [
+        "sample"
+      ],
+      "dependencies": [
+        "three.js"
+      ],
+      "uses_frameworks": [
+        "three.js"
+      ],
+      "slug": "threejs_webvr_vive_paint"
+    },
+    "createdTime": "2016-10-24T22:22:03.000Z"
+  },
+  {
+    "id": "recXdmCaTNISLLHF7",
+    "fields": {
+      "name": "Immersive Workshop: lights ",
+      "url": "http://classes.marpi.pl/immersive/public/lights",
+      "authors": [
+        "rec6TmVZuUDPR54MM"
+      ],
+      "tags": [
+        "workshop",
+        "experiment"
+      ],
+      "slug": "immersive_workshop_lights"
+    },
+    "createdTime": "2016-12-16T10:57:04.000Z"
+  },
+  {
+    "id": "recXhWPMtedR12bL9",
+    "fields": {
+      "name": "Shader Toy: Voxel Edges",
+      "url": "https://www.shadertoy.com/view/4dfGzs",
+      "description": "Correct edge detection for voxels. The marching function is fb39ca4's DDA, but using floating point operations instead of integers. The most interesting bits are probably the exact 3D intersector, the occlusion and the edge detection code.",
+      "authors": [
+        "recorj9n4zeW7yaaI"
+      ],
+      "tags": [
+        "procedural",
+        "raymarching",
+        "voxel",
+        "occlusion",
+        "dda",
+        "shader"
+      ],
+      "source_code_url": "https://www.shadertoy.com/view/4dfGzs",
+      "uses_frameworks": [
+        "Shadertoy"
+      ],
+      "case_study_or_landing_page_urls": "https://www.shadertoy.com/view/4dfGzs\nhttps://www.shadertoy.com/results?filter=vr",
+      "notes": "document.querySelector('myVR').click();\ndocument.querySelector('myFullScreen').click();\n",
+      "slug": "shader_toy_voxel_edges"
+    },
+    "createdTime": "2016-10-25T11:29:12.000Z"
+  },
+  {
+    "id": "recXiuJAFVNhrMPvH",
+    "fields": {
+      "name": "Shader Toy: [NV15] Space Curvature",
+      "url": "https://www.shadertoy.com/view/llj3Rz",
+      "description": "Space curvature",
+      "authors": [
+        "recorj9n4zeW7yaaI"
+      ],
+      "tags": [
+        "raymarching",
+        "raytracing",
+        "space",
+        "nv15",
+        "shader"
+      ],
+      "source_code_url": "https://www.shadertoy.com/view/llj3Rz",
+      "date_released": "2015-03-19T07:00:00.000Z",
+      "uses_frameworks": [
+        "Shadertoy"
+      ],
+      "case_study_or_landing_page_urls": "https://www.shadertoy.com/view/llj3Rz",
+      "slug": "shader_toy_nv15_space_curvature"
+    },
+    "createdTime": "2016-10-25T11:36:33.000Z"
+  },
+  {
+    "id": "recXvTgWjNSDXkfVF",
+    "fields": {
+      "name": "SECVRITY",
+      "url": "https://mozvr.com/demos/SECVRITY/",
+      "case_study_or_landing_page_urls": "https://hacks.mozilla.org/2016/05/exporting-an-indie-unity-game-to-webvr/",
+      "slug": "secvrity"
+    },
+    "createdTime": "2016-11-03T01:33:55.000Z"
+  },
+  {
+    "id": "recYkzhKtEckY0fcr",
+    "fields": {
+      "name": "Obsidian",
+      "url": "https://xplsv.github.io/obsidian/?webvr",
+      "authors": [
+        "recZfAEEB1FqeKzDr",
+        "recIPCQXVG6I0dGMt",
+        "recjzeMkrgRRnUit2"
+      ],
+      "dependencies": [
+        "three.js"
+      ],
+      "source_code_url": "https://github.com/xplsv/obsidian",
+      "uses_frameworks": [
+        "three.js"
+      ],
+      "case_study_or_landing_page_urls": "https://github.com/xplsv/obsidian",
+      "slug": "obsidian"
+    },
+    "createdTime": "2016-10-25T11:05:16.000Z"
+  },
+  {
+    "id": "recYtKsgw0Mpl9tYr",
+    "fields": {
+      "name": "Marpi Worlds 2: Tim",
+      "url": "http://classes.marpi.pl/worlds2/tim/",
+      "authors": [
+        "rec6TmVZuUDPR54MM"
+      ],
+      "tags": [
+        "workshop",
+        "experiment"
+      ],
+      "slug": "marpi_worlds2_tim"
+    },
+    "createdTime": "2016-12-16T13:05:49.000Z"
+  },
+  {
+    "id": "recYuSnKdbcEeBcGX",
+    "fields": {
+      "name": "Jaws at Night",
+      "url": "https://ybinstock.github.io/jaws-at-night-aframe/",
+      "dependencies": [
+        "aframe",
+        "three.js"
+      ],
+      "uses_frameworks": [
+        "A-Frame"
+      ],
+      "slug": "jaws_at_night"
+    },
+    "createdTime": "2016-10-15T01:52:29.000Z"
+  },
+  {
+    "id": "recYx6AUpTNc6ZeKD",
+    "fields": {
+      "name": "PoolVR",
+      "url": "https://jzitelli.github.io/poolvr/dist/poolvr.html",
+      "description": "Play pool in VR!",
+      "authors": [
+        "recBMo4EnurgOstZF"
+      ],
+      "dependencies": [
+        "leap-motion",
+        "aframe",
+        "three.js",
+        "webvr-polyfill"
+      ],
+      "source_code_url": "https://github.com/jzitelli/poolvr",
+      "uses_frameworks": [
+        "three.js"
+      ],
+      "screenshots": [
+        {
+          "id": "attocZVX3RSLHhcn0",
+          "url": "https://dl.airtable.com/ftKXN9hYTNXYnJJIPG5Q_poolvr-0.1.0-02162016.png",
+          "filename": "poolvr-0.1.0-02162016.png",
+          "size": 145087,
+          "type": "image/png",
+          "thumbnails": {
+            "small": {
+              "url": "https://dl.airtable.com/VGoGmpZOQOyObEw7lkY7_small_poolvr-0.1.0-02162016.png",
+              "width": 46,
+              "height": 36
+            },
+            "large": {
+              "url": "https://dl.airtable.com/LKvT10FuStGQtBDHA2L8_large_poolvr-0.1.0-02162016.png",
+              "width": 512,
+              "height": 512
+            }
+          }
+        }
+      ],
+      "case_study_or_landing_page_urls": "https://jzitelli.github.io/poolvr/",
+      "videos": [
+        {
+          "id": "attzi8eS9VGyfFEFA",
+          "url": "https://dl.airtable.com/fuvn8zKWTKllWFYPxaQM_poolvr.mp4",
+          "filename": "poolvr.mp4",
+          "size": 10322443,
+          "type": "video/mp4"
+        }
+      ],
+      "video_urls": "https://www.youtube.com/watch?v=FthrpSQU6S4",
+      "evaluation": "chromium + rift: renders into headset, cannot interact.",
+      "slug": "pool_vr"
+    },
+    "createdTime": "2016-10-05T02:03:49.000Z"
+  },
+  {
+    "id": "recZ7Zd0NgSL1KdjY",
+    "fields": {
+      "name": "Mozilla Developers' A-Frame Demos: Positional Audio",
+      "url": "https://mozdevs.github.io/aframe-demo/sound.html",
+      "tags": [
+        "audio"
+      ],
+      "source_code_url": "https://github.com/mozdevs/aframe-demo/blob/gh-pages/sound.html",
+      "case_study_or_landing_page_urls": "https://mozdevs.github.io/aframe-demo/",
+      "slug": "mozdevs_aframe_sound"
+    },
+    "createdTime": "2016-11-03T04:17:05.000Z"
+  },
+  {
+    "id": "recZV3FRWDzcjEdvY",
+    "fields": {
+      "name": "cru·ci·form",
+      "url": "https://www.clicktorelease.com/code/cruciform/vr/",
+      "description": "A study in architecture visualisation.",
+      "authors": [
+        "rectmTNJdniMbPUoQ"
+      ],
+      "source_code_url": "https://github.com/spite/cruciform",
+      "screenshots": [
+        {
+          "id": "att2FWN59slmYroz8",
+          "url": "https://dl.airtable.com/Fpbo1pVZRAWWTe3IuLrg_cruciform-cover.jpg",
+          "filename": "cruciform-cover.jpg",
+          "size": 572253,
+          "type": "image/jpeg",
+          "thumbnails": {
+            "small": {
+              "url": "https://dl.airtable.com/xqMWnwDJSrKyqJDh8aBn_small_cruciform-cover.jpg",
+              "width": 58,
+              "height": 36
+            },
+            "large": {
+              "url": "https://dl.airtable.com/l8K3twLSxasLr2EH9kId_large_cruciform-cover.jpg",
+              "width": 512,
+              "height": 512
+            }
+          }
+        }
+      ],
+      "case_study_or_landing_page_urls": "https://www.clicktorelease.com/code/cruciform/",
+      "videos": [
+        {
+          "id": "attJov5VFMgTFXYAG",
+          "url": "https://dl.airtable.com/QXsJCgNNQBKWWQAER76D_cruciform-4k.mp4",
+          "filename": "cruciform-4k.mp4",
+          "size": 36703,
+          "type": "video/mp4"
+        }
+      ],
+      "video_urls": "https://www.youtube.com/watch?v=rly322ijJWA",
+      "featured": true,
+      "evaluation": "chromium + rift: works!",
+      "slug": "cruciform"
+    },
+    "createdTime": "2016-10-24T21:59:00.000Z"
+  },
+  {
+    "id": "recZW8xh4DoK32m2M",
+    "fields": {
+      "name": "Plane Fields (2)",
+      "url": "http://www.math.miami.edu/~kenken/webvr/cylplanes.html",
+      "case_study_or_landing_page_urls": "http://www.math.miami.edu/~kenken/planesight.html",
+      "slug": "plane_fields_cylplanes"
+    },
+    "createdTime": "2016-11-10T01:01:53.000Z"
+  },
+  {
+    "id": "recZkvPuskCPe7wDT",
+    "fields": {
+      "name": "Eutow",
+      "url": "http://demo.marpi.pl/archan/eutow/",
+      "authors": [
+        "rec6TmVZuUDPR54MM",
+        "rec8rJ8nP6Yw0QcH7"
+      ],
+      "screenshots": [
+        {
+          "id": "attKKPmsLe8EEzq4z",
+          "url": "https://dl.airtable.com/AurvHUXkRZ2sDJWWwuur_og_image.jpg",
+          "filename": "og_image.jpg",
+          "size": 564416,
+          "type": "image/jpeg",
+          "thumbnails": {
+            "small": {
+              "url": "https://dl.airtable.com/5nLU9RB5TLWGnw4v97hg_small_og_image.jpg",
+              "width": 53,
+              "height": 36
+            },
+            "large": {
+              "url": "https://dl.airtable.com/aSH7vZAoRXWEWKKjsMCS_large_og_image.jpg",
+              "width": 512,
+              "height": 512
+            }
+          }
+        }
+      ],
+      "chromeexperiments_urls": "https://www.chromeexperiments.com/experiment/eutow",
+      "featured": true,
+      "slug": "eutow"
+    },
+    "createdTime": "2016-11-03T01:33:20.000Z"
+  },
+  {
+    "id": "reca4GS6F6b7eZaWb",
+    "fields": {
+      "name": "hypVR",
+      "url": "https://hawksley.github.io/hypVR/",
+      "authors": [
+        "rectkppfWCbyeuMjc",
+        "recTuSWpN1YRZil7A",
+        "recV2AvuRKLFCloDi"
+      ],
+      "source_code_url": "https://github.com/hawksley/hypVR",
+      "date_released": "2016-10-31T23:15:00.000Z",
+      "slug": "hypvr"
+    },
+    "createdTime": "2016-11-02T02:22:50.000Z"
+  },
+  {
+    "id": "reca6L00Iamp05H1f",
+    "fields": {
+      "name": "Immersive Workshop: patricia ",
+      "url": "http://classes.marpi.pl/immersive/public/patricia",
+      "authors": [
+        "rec6TmVZuUDPR54MM"
+      ],
+      "tags": [
+        "workshop",
+        "experiment"
+      ],
+      "slug": "immersive_workshop_patricia"
+    },
+    "createdTime": "2016-12-16T10:57:04.000Z"
+  },
+  {
+    "id": "recbAoLtsWPjvR6CD",
+    "fields": {
+      "name": "Marpi Worlds 2: Glass Eagle",
+      "url": "http://classes.marpi.pl/worlds2/glass_eagle/",
+      "authors": [
+        "rec6TmVZuUDPR54MM"
+      ],
+      "tags": [
+        "workshop",
+        "experiment"
+      ],
+      "slug": "marpi_worlds2_glass_eagle"
+    },
+    "createdTime": "2016-12-16T13:05:49.000Z"
+  },
+  {
+    "id": "recbAoTEeEhjYu7IX",
+    "fields": {
+      "name": "WebVR Samples: 08 - Dynamic Resolution",
+      "url": "https://webvr.info/samples/08-dynamic-resolution.html",
+      "description": "This sample demonstrates how to efficiently adjust the resolution of your WebVR scene on the fly using the layer bounds. Based off of sample 4b.",
+      "compat_reports": [
+        "recuw9PUlOny8YUs7"
+      ],
+      "slug": "webvr_samples_08_dynamic_resolution"
+    },
+    "createdTime": "2017-01-05T07:09:40.000Z"
+  },
+  {
+    "id": "recbTnW74F6KwVN5j",
+    "fields": {
+      "name": "WebVR Samples: 00 - Hello WebVR!",
+      "url": "https://webvr.info/samples/00-hello-webvr.html",
+      "description": "This sample enumerates over the connected VRDisplays and displays their contents on screen. Useful for debugging. WebGL is not used in this sample and nothing is presented to the VRDisplay.",
+      "compat_reports": [
+        "reczdnmtZGyVDdgsK"
+      ],
+      "slug": "webvr_samples_00_hello_webvr"
+    },
+    "createdTime": "2017-01-05T06:53:01.000Z"
+  },
+  {
+    "id": "recc2NVYwPGNxCo1C",
+    "fields": {
+      "name": "Track",
+      "url": "https://ada.is/webvr/track.html",
+      "description": "Inspired by Hex-GL",
+      "authors": [
+        "recyjJBBNOo43KUdS"
+      ],
+      "dependencies": [
+        "aframe",
+        "three.js",
+        "webvr-polyfill"
+      ],
+      "uses_frameworks": [
+        "A-Frame"
+      ],
+      "case_study_or_landing_page_urls": "https://ada.is/getting-started-with-webvr/track.htm\n",
+      "slug": "ada_track"
+    },
+    "createdTime": "2016-09-12T05:02:53.000Z"
+  },
+  {
+    "id": "reccHE3bGaCsovdrw",
+    "fields": {
+      "name": "Iberia Virtual Flight",
+      "url": "http://virtualflight.iberia.com/",
+      "authors": [
+        "recA94YD38mEiWQdC"
+      ],
+      "webvr_api_version_support": 0.9,
+      "slug": "iberia_virtual_flight"
+    },
+    "createdTime": "2016-10-25T10:59:46.000Z"
+  },
+  {
+    "id": "reccN5n3ilzLfSxtD",
+    "fields": {
+      "name": "WebVR Sculpt",
+      "url": "https://mrdoob.github.io/webvr-sculpt/",
+      "authors": [
+        "recZfAEEB1FqeKzDr"
+      ],
+      "slug": "webvr_sculpt"
+    },
+    "createdTime": "2016-10-25T10:58:52.000Z"
+  },
+  {
+    "id": "reccTQ26KFYdWrz5N",
+    "fields": {
+      "name": "A-Frame glTF Demo",
+      "url": "http://xirvr.com/aframe-gltf/demo/",
+      "evaluation": "chromium + oculus: works!",
+      "slug": "aframe_gltf"
+    },
+    "createdTime": "2016-11-01T17:08:58.000Z"
+  },
+  {
+    "id": "reccWJ0MPm6sZbLMe",
+    "fields": {
+      "name": "Marpi Worlds 2: Ricardo",
+      "url": "http://classes.marpi.pl/worlds2/ricardo/",
+      "authors": [
+        "rec6TmVZuUDPR54MM"
+      ],
+      "tags": [
+        "workshop",
+        "experiment"
+      ],
+      "slug": "marpi_worlds2_ricardo"
+    },
+    "createdTime": "2016-12-16T13:05:49.000Z"
+  },
+  {
+    "id": "reccxsgNTXNrYopIc",
+    "fields": {
+      "name": "The Searching Planet VR",
+      "url": "https://searchingplanet.withgoogle.com/vr/en/",
+      "slug": "searching_planet"
+    },
+    "createdTime": "2016-10-24T22:22:38.000Z"
+  },
+  {
+    "id": "recdagXumhIvwA3MO",
+    "fields": {
+      "name": "Lucy in the Sky with a Cube",
+      "url": "http://absulit.com/portfolio/demo/webvr/001/",
+      "tags": [
+        "experiment"
+      ],
+      "dependencies": [
+        "three.js"
+      ],
+      "genres": [
+        "art",
+        "experimental"
+      ],
+      "uses_frameworks": [
+        "three.js"
+      ],
+      "slug": "lucy_in_the_sky_with_cube"
+    },
+    "createdTime": "2016-09-12T05:02:53.000Z"
+  },
+  {
+    "id": "recdkwGwqAsEpx4co",
+    "fields": {
+      "name": "WebVR Samples: Test - Slow JavaScript",
+      "url": "https://webvr.info/samples/test-slow-render.html?workTime=48",
+      "description": "This test attempts to simulate a heavy JavaScript workload so that WebVR implementations gauge how well they handle that scenario.",
+      "compat_reports": [
+        "recaKlJmmxHrn55Ks"
+      ],
+      "slug": "webvr_samples_test_slow_render_long_work"
+    },
+    "createdTime": "2017-01-05T07:09:43.000Z"
+  },
+  {
+    "id": "recedXKoOEdcCqgC2",
+    "fields": {
+      "name": "Immersive Workshop: animation",
+      "url": "http://classes.marpi.pl/immersive/public/animation",
+      "authors": [
+        "rec6TmVZuUDPR54MM"
+      ],
+      "tags": [
+        "workshop",
+        "experiment"
+      ],
+      "slug": "immersive_workshop_animation"
+    },
+    "createdTime": "2016-12-16T10:54:52.000Z"
+  },
+  {
+    "id": "receuMuf3lQlvUlSP",
+    "fields": {
+      "name": "Marpi Worlds 2: Ann",
+      "url": "http://classes.marpi.pl/worlds2/ann/",
+      "authors": [
+        "rec6TmVZuUDPR54MM"
+      ],
+      "tags": [
+        "workshop",
+        "experiment"
+      ],
+      "slug": "marpi_worlds2_ann"
+    },
+    "createdTime": "2016-12-16T13:05:49.000Z"
+  },
+  {
+    "id": "recf7ELn8hndoOr3l",
+    "fields": {
+      "name": "ScreenVR",
+      "url": "https://jonathanzwhite.github.io/screenvr/",
+      "description": "Use your desktop in VR, on the web",
+      "authors": [
+        "recyRSn48ppoFIXgF"
+      ],
+      "screenshots": [
+        {
+          "id": "attxwpsvj4xxqntUw",
+          "url": "https://dl.airtable.com/xzQMQnYERIirINEFJAX5_screenvr.png",
+          "filename": "screenvr.png",
+          "size": 89864,
+          "type": "image/png",
+          "thumbnails": {
+            "small": {
+              "url": "https://dl.airtable.com/vjwXWeHQQz2Cixe9Vgcp_small_screenvr.png",
+              "width": 64,
+              "height": 36
+            },
+            "large": {
+              "url": "https://dl.airtable.com/KvBoLhrjQjyffZg0kV7v_large_screenvr.png",
+              "width": 400,
+              "height": 226
+            }
+          }
+        }
+      ],
+      "featured": true,
+      "slug": "screenvr"
+    },
+    "createdTime": "2016-12-16T15:34:06.000Z"
+  },
+  {
+    "id": "recfZqNUGnyoJFqmA",
+    "fields": {
+      "name": "English Soccer Data Visualization",
+      "url": "https://vr-data-vis.herokuapp.com/engsoccerdata/index.html",
+      "description": "Visualization from English and European soccer results 1871-2016",
+      "slug": "english_soccer_data"
+    },
+    "createdTime": "2016-10-25T10:49:16.000Z"
+  },
+  {
+    "id": "recfj92zu6gGWZX78",
+    "fields": {
+      "name": "latk",
+      "url": "http://latk.es/",
+      "slug": "latk"
+    },
+    "createdTime": "2016-11-03T03:51:39.000Z"
+  },
+  {
+    "id": "recftySkWmi2usi6h",
+    "fields": {
+      "name": "FUE Deep Linking",
+      "url": "https://gaia2015.com/vr/",
+      "authors": [
+        "recA94YD38mEiWQdC"
+      ],
+      "webvr_api_version_support": 0.9,
+      "slug": "fue"
+    },
+    "createdTime": "2016-10-25T10:59:41.000Z"
+  },
+  {
+    "id": "recgKcSiEudsognfe",
+    "fields": {
+      "name": "Momento360",
+      "url": "https://www.momento360.com/",
+      "authors": [
+        "recuAhIckCzm0ZeQi"
+      ],
+      "tags": [
+        "photosphere",
+        "gallery",
+        "videosphere",
+        "community"
+      ],
+      "tweet_urls": "https://twitter.com/Momento360",
+      "slug": "momento360"
+    },
+    "createdTime": "2017-01-26T09:07:30.000Z"
+  },
+  {
+    "id": "recgQgBxAKw2Lw0xq",
+    "fields": {
+      "name": "Primrose: PlumeVR Meeting Remo Demo",
+      "url": "https://plumevr.azurewebsites.net/?room=demo",
+      "authors": [
+        "recOJoJiy5LU9FYso"
+      ],
+      "dependencies": [
+        "three.js",
+        "primrose"
+      ],
+      "uses_frameworks": [
+        "primrose",
+        "three.js"
+      ],
+      "case_study_or_landing_page_urls": "https://www.primrosevr.com/",
+      "slug": "primrose_plumevr"
+    },
+    "createdTime": "2016-10-25T11:01:07.000Z"
+  },
+  {
+    "id": "recgkASfqKXkII2Ec",
+    "fields": {
+      "name": "Marpi Worlds 2: Yanjia",
+      "url": "http://classes.marpi.pl/worlds2/yanjia/",
+      "authors": [
+        "rec6TmVZuUDPR54MM"
+      ],
+      "tags": [
+        "workshop",
+        "experiment"
+      ],
+      "slug": "marpi_worlds2_yanjia"
+    },
+    "createdTime": "2016-12-16T13:05:49.000Z"
+  },
+  {
+    "id": "recgzlEAFDRQytDjB",
+    "fields": {
+      "name": "three.js: WebVR Vive Sculpt",
+      "url": "https://threejs.org/examples/webvr_vive_sculpt.html",
+      "authors": [
+        "recZfAEEB1FqeKzDr"
+      ],
+      "tags": [
+        "sample"
+      ],
+      "dependencies": [
+        "three.js"
+      ],
+      "uses_frameworks": [
+        "three.js"
+      ],
+      "slug": "threejs_webvr_vive_sculpt"
+    },
+    "createdTime": "2016-10-24T22:22:03.000Z"
+  },
+  {
+    "id": "rechHWN3u5PAwJqrX",
+    "fields": {
+      "name": "Duck Hunt",
+      "authors": [
+        "rec7yanWohOHemCo3"
+      ],
+      "genres": [
+        "shooter"
+      ],
+      "uses_frameworks": [
+        "A-Frame"
+      ],
+      "case_study_or_landing_page_urls": "https://twitter.com/spacefishing/status/791087702691176448\nhttps://twitter.com/cvanw/status/791240066551062528",
+      "videos": [
+        {
+          "id": "attzLERqDTmb4bwrx",
+          "url": "https://dl.airtable.com/4CwAPuKCRDOAo7Sicedj_duckhunt-aframe.mp4",
+          "filename": "duckhunt-aframe.mp4",
+          "size": 46038,
+          "type": "video/mp4"
+        }
+      ],
+      "video_urls": "https://www.youtube.com/watch?v=qLRu9_qdUpo",
+      "reddit_urls": "https://www.reddit.com/r/WebVR/comments/59gs5u/duckhunt_with_aframe_vr/?ref=share&ref_source=link",
+      "slug": "duck_hunt"
+    },
+    "createdTime": "2016-10-26T09:03:38.000Z"
+  },
+  {
+    "id": "rechv7DMulNqebcGQ",
+    "fields": {
+      "name": "A-Frame Clubber",
+      "url": "https://wizgrav.github.io/aframe-clubber/demo/",
+      "authors": [
+        "recClIg46y99VYZx9"
+      ],
+      "dependencies": [
+        "aframe",
+        "three.js",
+        "webvr-polyfill"
+      ],
+      "source_code_url": "https://github.com/wizgrav/aframe-clubber",
+      "uses_frameworks": [
+        "A-Frame"
+      ],
+      "evaluation": "chromium + rift: does not work at all",
+      "slug": "aframe_clubber"
+    },
+    "createdTime": "2016-10-05T02:06:12.000Z"
+  },
+  {
+    "id": "reci1AWnpfbqW7p6A",
+    "fields": {
+      "name": "Snow",
+      "url": "https://surebak.github.io/",
+      "description": "Beautiful snowflake experience",
+      "authors": [
+        "recI8hkbjUoH77zfK"
+      ],
+      "source_code_url": "https://github.com/surebak/surebak.github.io",
+      "screenshots": [
+        {
+          "id": "attmQpDlOQ9QwhDAi",
+          "url": "https://dl.airtable.com/32mG6PQASZsGwgnxnCwq_snow.png",
+          "filename": "snow.png",
+          "size": 7442,
+          "type": "image/png",
+          "thumbnails": {
+            "small": {
+              "url": "https://dl.airtable.com/BMWI5aEQSOKPlxTDKGWz_small_snow.png",
+              "width": 58,
+              "height": 36
+            },
+            "large": {
+              "url": "https://dl.airtable.com/VTwTDgupSCyFbqAw0Hyw_large_snow.png",
+              "width": 400,
+              "height": 250
+            }
+          }
+        }
+      ],
+      "featured": true,
+      "slug": "snow"
+    },
+    "createdTime": "2016-12-16T10:44:39.000Z"
+  },
+  {
+    "id": "reciFD7748U34Nawc",
+    "fields": {
+      "name": "Cute Cubes: Spectator",
+      "url": "http://unboring.net/lab/cuteCubes/vive_spectator.html",
+      "authors": [
+        "recA94YD38mEiWQdC"
+      ],
+      "case_study_or_landing_page_urls": "http://unboring.net/lab/cuteCubes/",
+      "webvr_api_version_support": 1,
+      "slug": "cute_cubes_spectator"
+    },
+    "createdTime": "2016-10-24T22:41:49.000Z"
+  },
+  {
+    "id": "reciwGKq22ma74iZq",
+    "fields": {
+      "name": "EY: The Upside of Disruption",
+      "url": "http://ey.datavized.com/",
+      "case_study_or_landing_page_urls": "http://datavized.com/ey-megatrends/",
+      "slug": "ey"
+    },
+    "createdTime": "2016-11-10T00:18:40.000Z"
+  },
+  {
+    "id": "recj4x8dvnzTIEz59",
+    "fields": {
+      "name": "WebVR Samples: 04b - Simple Mirroring pt. 2",
+      "url": "https://webvr.info/samples/04b-simple-mirroring-2.html",
+      "description": "This sample demonstrates how to restrict a simple mirror of VR content (using `preserveDrawingBuffer`) to show the contents of only a single eye.",
+      "compat_reports": [
+        "recYAkRsQkEo0k0Yl"
+      ],
+      "slug": "webvr_samples_04b_simple_mirroring_2"
+    },
+    "createdTime": "2017-01-05T07:09:34.000Z"
+  },
+  {
+    "id": "recj553d9TS1TG0cJ",
+    "fields": {
+      "name": "Marpi Worlds 2: Sam",
+      "url": "http://classes.marpi.pl/worlds2/sam/",
+      "authors": [
+        "rec6TmVZuUDPR54MM"
+      ],
+      "tags": [
+        "workshop",
+        "experiment"
+      ],
+      "slug": "marpi_worlds2_sam"
+    },
+    "createdTime": "2016-12-16T13:05:49.000Z"
+  },
+  {
+    "id": "recj95EJxjfLCwS5h",
+    "fields": {
+      "name": "Marpi Worlds 2: Luka",
+      "url": "http://classes.marpi.pl/worlds2/luka/",
+      "authors": [
+        "rec6TmVZuUDPR54MM"
+      ],
+      "tags": [
+        "workshop",
+        "experiment"
+      ],
+      "slug": "marpi_worlds2_luka"
+    },
+    "createdTime": "2016-12-16T13:05:49.000Z"
+  },
+  {
+    "id": "recjbtsNOaApetRXX",
+    "fields": {
+      "name": "Marpi Worlds 2: Jamaal",
+      "url": "http://classes.marpi.pl/worlds2/jamaal/",
+      "authors": [
+        "rec6TmVZuUDPR54MM"
+      ],
+      "tags": [
+        "workshop",
+        "experiment"
+      ],
+      "slug": "marpi_worlds2_jamaal"
+    },
+    "createdTime": "2016-12-16T13:05:49.000Z"
+  },
+  {
+    "id": "reck2zLZ489pEI7vv",
+    "fields": {
+      "name": "Shader Toy: Grid of Cylinders",
+      "url": "https://www.shadertoy.com/view/4dSGW1",
+      "description": "Using a 2D regular grid as acceleration structure for raytracing (an infinite amount of) cylinders. I trace across the 2D grid and then intersect the cylinder inside each cell. When the first intersection is found, the tracing can stop.",
+      "authors": [
+        "recorj9n4zeW7yaaI"
+      ],
+      "tags": [
+        "procedural",
+        "raytracing",
+        "grid",
+        "cylinder",
+        "regulargrid",
+        "shader"
+      ],
+      "source_code_url": "https://www.shadertoy.com/view/4dSGW1",
+      "uses_frameworks": [
+        "Shadertoy"
+      ],
+      "case_study_or_landing_page_urls": "https://www.shadertoy.com/view/4dSGW1\nhttps://www.shadertoy.com/results?filter=vr",
+      "slug": "shader_toy_grid_of_cylinders"
+    },
+    "createdTime": "2016-10-25T11:37:26.000Z"
+  },
+  {
+    "id": "reckBRWJRDTNdKvNd",
+    "fields": {
+      "name": "LIVYATANIM | MYTH",
+      "url": "http://film.livyatanim.com/",
+      "description": "An interactive film by Or Fleisher with music by LIVYATANIM",
+      "authors": [
+        "recClIg46y99VYZx9"
+      ],
+      "featured": true,
+      "slug": "livyatanim"
+    },
+    "createdTime": "2016-12-16T13:36:38.000Z"
+  },
+  {
+    "id": "reckfd8lmWkTCJsmI",
+    "fields": {
+      "name": "Blair Witch",
+      "url": "http://www.blairwitch.com/experience/360/",
+      "authors": [
+        "rec6TmVZuUDPR54MM"
+      ],
+      "case_study_or_landing_page_urls": "http://www.blairwitch.com/experience/",
+      "slug": "blair_witch"
+    },
+    "createdTime": "2016-10-19T00:42:05.000Z"
+  },
+  {
+    "id": "reclAZHY4B3VQBU2V",
+    "fields": {
+      "name": "Adit",
+      "url": "https://wmurphyrd.shinyapps.io/adit/",
+      "description": "VR exploratory data analysis.",
+      "authors": [
+        "recdTrNJUS9YAEI7O"
+      ],
+      "aframe_version": "0.3.2",
+      "tags": [
+        "dataviz"
+      ],
+      "dependencies": [
+        "aframe",
+        "three.js",
+        "webvr-polyfill"
+      ],
+      "source_code_url": "https://github.com/wmurphyrd/adit",
+      "genres": [
+        "dataviz"
+      ],
+      "support_for_htc_vive": "superb",
+      "uses_frameworks": [
+        "A-Frame"
+      ],
+      "screenshots": [
+        {
+          "id": "attzSbGMtLmw5agVQ",
+          "url": "https://dl.airtable.com/uSdSOdNBQki2Hym7PMJ4_upload2.png",
+          "filename": "upload2.png",
+          "size": 76273,
+          "type": "image/png",
+          "thumbnails": {
+            "small": {
+              "url": "https://dl.airtable.com/F7awf81ToKh93q5xAUNy_small_upload2.png",
+              "width": 69,
+              "height": 36
+            },
+            "large": {
+              "url": "https://dl.airtable.com/1dsSRtVSFQmCqPsPvwgH_large_upload2.png",
+              "width": 512,
+              "height": 364
+            }
+          }
+        },
+        {
+          "id": "att5Pfqgy1dniFRGq",
+          "url": "https://dl.airtable.com/ZUj76J7ARP22gOSEswh9_upload1.png",
+          "filename": "upload1.png",
+          "size": 55076,
+          "type": "image/png",
+          "thumbnails": {
+            "small": {
+              "url": "https://dl.airtable.com/LHCurCj0QfKGUfkRmUqx_small_upload1.png",
+              "width": 69,
+              "height": 36
+            },
+            "large": {
+              "url": "https://dl.airtable.com/nHMGBbb7T1q3SwNviUOQ_large_upload1.png",
+              "width": 512,
+              "height": 364
+            }
+          }
+        },
+        {
+          "id": "attcWH8P2Chs5Pk5c",
+          "url": "https://dl.airtable.com/QKs1FHYTquJGw2T3E2GF_upload0.png",
+          "filename": "upload0.png",
+          "size": 62268,
+          "type": "image/png",
+          "thumbnails": {
+            "small": {
+              "url": "https://dl.airtable.com/1JrsrxHmQDCMvI5IQB7B_small_upload0.png",
+              "width": 69,
+              "height": 36
+            },
+            "large": {
+              "url": "https://dl.airtable.com/H7QpGBXGTxSwaOJ4egGb_large_upload0.png",
+              "width": 512,
+              "height": 365
+            }
+          }
+        },
+        {
+          "id": "att0xrWetw7Oa1b0Q",
+          "url": "https://dl.airtable.com/Te719buwRKGNsOdkkeDs_adit.png",
+          "filename": "adit.png",
+          "size": 51736,
+          "type": "image/png",
+          "thumbnails": {
+            "small": {
+              "url": "https://dl.airtable.com/jUP9CfkrSgyRvFCb08Vf_small_adit.png",
+              "width": 58,
+              "height": 36
+            },
+            "large": {
+              "url": "https://dl.airtable.com/B4bhokkfTTyBIQlAlsCx_large_adit.png",
+              "width": 400,
+              "height": 250
+            }
+          }
+        }
+      ],
+      "support_for_multiplayer": [
+        "none"
+      ],
+      "videos": [
+        {
+          "id": "attoT3GJDRMzixett",
+          "url": "https://dl.airtable.com/xv6SuOrrRASt5DYHViWq_giphy.mp4",
+          "filename": "giphy.mp4",
+          "size": 151956,
+          "type": "video/mp4"
+        },
+        {
+          "id": "att0XfrYGqeSwjIpU",
+          "url": "https://dl.airtable.com/XAhIxXxxSRmQI5MRSLeB_adit.mp4",
+          "filename": "adit.mp4",
+          "size": 4777286,
+          "type": "video/mp4"
+        }
+      ],
+      "video_urls": "https://www.youtube.com/watch?v=vy8e8zIi4qw",
+      "notes": "Adit is a tool for virtual reality exploratory data analysis using the HTC Vive. Adit brings together the R language for statistical computing and virtual reality on the Web using RStudio's shiny and Mozilla's A-Frame. With Adit, you can create visualizations by dragging variable name cards and dropping them on the x, y, and z axes or the color, shape, and size legends. Examine your plot by grabbing it to move and rotate, stretching with two hands to scale, or releasing with with a twist to animate. \n\nVisit https://github.com/wmurphyrd/adit for more info.",
+      "reddit_urls": "https://www.reddit.com/r/Vive/comments/5kyslz/adit_the_webvr_data_explorer_i_made_the_mistake/",
+      "featured": true,
+      "support_for_leap_motion": [
+        "none"
+      ],
+      "evaluation": "From https://drive.google.com/drive/u/0/folders/0BzudLt22BqGRY1JNbXhpQTNCa2c, download the \"September, 23 2016\" version of Chromium.",
+      "compat_reports": [
+        "rec0KIAKsNw54zoQP"
+      ],
+      "slug": "adit",
+      "dependencies_notes": "A-Frame Version: 0.3.2\nthree Version: ^0.76.1\nWebVR Polyfill Version: 0.9.15",
+      "date_updated": "2017-01-26T09:01:00.000Z"
+    },
+    "createdTime": "2017-01-06T02:36:31.000Z"
+  },
+  {
+    "id": "reclEZUHDYLGH9mY7",
+    "fields": {
+      "name": "Cute Cubes: Multiple",
+      "url": "http://unboring.net/lab/cuteCubes/vive_multi.html",
+      "authors": [
+        "recA94YD38mEiWQdC"
+      ],
+      "case_study_or_landing_page_urls": "http://unboring.net/lab/cuteCubes/",
+      "webvr_api_version_support": 1,
+      "slug": "cute_cubes_multiple"
+    },
+    "createdTime": "2016-10-24T22:41:45.000Z"
+  },
+  {
+    "id": "reclbBjHxGZ1PLPir",
+    "fields": {
+      "name": "three.js: WebVR Vive",
+      "url": "https://threejs.org/examples/webvr_vive.html",
+      "authors": [
+        "recZfAEEB1FqeKzDr"
+      ],
+      "tags": [
+        "sample"
+      ],
+      "dependencies": [
+        "three.js"
+      ],
+      "uses_frameworks": [
+        "three.js"
+      ],
+      "slug": "threejs_webvr_video"
+    },
+    "createdTime": "2016-10-24T22:22:03.000Z"
+  },
+  {
+    "id": "reclpCjTl6KFS8VXO",
+    "fields": {
+      "name": "Shader Toy: Elevated",
+      "url": "https://www.shadertoy.com/view/MdX3Rr",
+      "description": "A raymarched version of my demo Elevated from 2009",
+      "authors": [
+        "recorj9n4zeW7yaaI"
+      ],
+      "tags": [
+        "raymarching",
+        "terrain",
+        "procedural",
+        "distancefield",
+        "shader"
+      ],
+      "source_code_url": "https://www.shadertoy.com/view/MdX3Rr",
+      "date_released": "2013-02-10T08:00:00.000Z",
+      "uses_frameworks": [
+        "Shadertoy"
+      ],
+      "case_study_or_landing_page_urls": "https://www.shadertoy.com/view/MdX3Rr\nhttps://www.shadertoy.com/results?filter=vr",
+      "notes": "document.querySelector('myVR').click();\ndocument.querySelector('myFullScreen').click();\n",
+      "slug": "shader_toy_elevated"
+    },
+    "createdTime": "2016-10-25T11:21:38.000Z"
+  },
+  {
+    "id": "recm51szoFtxE3bOs",
+    "fields": {
+      "name": "Virtual Gallery",
+      "url": "http://virtualgallery.co/",
+      "dependencies": [
+        "aframe"
+      ],
+      "uses_frameworks": [
+        "A-Frame"
+      ],
+      "slug": "virtual_gallery"
+    },
+    "createdTime": "2016-10-19T01:07:49.000Z"
+  },
+  {
+    "id": "recmrVWqiYmkfOnFX",
+    "fields": {
+      "name": "Shader Toy: Cubescape",
+      "url": "https://www.shadertoy.com/view/Msl3Rr",
+      "description": "Raymarching some fbm (you can move the mouse around). This is my first shader in the \"one shader a week for a year\" challenge that I have committed to.",
+      "authors": [
+        "rech8mWzxhj77xILW"
+      ],
+      "tags": [
+        "raymarching",
+        "procedural",
+        "sound",
+        "reactive",
+        "music",
+        "shader"
+      ],
+      "source_code_url": "https://www.shadertoy.com/view/Msl3Rr",
+      "date_released": "2013-03-04T08:00:00.000Z",
+      "uses_frameworks": [
+        "Shadertoy"
+      ],
+      "case_study_or_landing_page_urls": "https://www.shadertoy.com/view/Msl3Rr\nhttps://www.shadertoy.com/results?filter=vr",
+      "notes": "document.querySelector('myVR').click();\ndocument.querySelector('myFullScreen').click();\n",
+      "slug": "shader_toy_cubescape"
+    },
+    "createdTime": "2016-10-25T11:29:08.000Z"
+  },
+  {
+    "id": "recniXa7Eus6u7UZS",
+    "fields": {
+      "name": "Puzzle Rain",
+      "url": "https://mozvr.com/puzzle-rain/",
+      "description": "A musical WebVR journey for the HTC Vive",
+      "authors": [
+        "reckpSgXipd8L16gH",
+        "recA94YD38mEiWQdC"
+      ],
+      "tags": [
+        "showcase",
+        "cinematic",
+        "music",
+        "audio",
+        "game",
+        "puzzle"
+      ],
+      "source_code_url": "https://github.com/mozvr/puzzle-rain",
+      "screenshots": [
+        {
+          "id": "attmWbZeXjkc3yR9k",
+          "url": "https://dl.airtable.com/gDX0HcXYTSavld6ZWech_puzzle-rain-bg.jpg",
+          "filename": "puzzle-rain-bg.jpg",
+          "size": 468029,
+          "type": "image/jpeg",
+          "thumbnails": {
+            "small": {
+              "url": "https://dl.airtable.com/d0f0K41TBaTumvXWBoG6_small_puzzle-rain-bg.jpg",
+              "width": 64,
+              "height": 36
+            },
+            "large": {
+              "url": "https://dl.airtable.com/krDJ1dRYSsqHZWwKFhfq_large_puzzle-rain-bg.jpg",
+              "width": 512,
+              "height": 512
+            }
+          }
+        }
+      ],
+      "case_study_or_landing_page_urls": "https://blog.mozvr.com/puzzle-rain/",
+      "webvr_api_version_support": 1.1,
+      "featured": true,
+      "slug": "puzzle_rain"
+    },
+    "createdTime": "2016-10-24T23:19:52.000Z"
+  },
+  {
+    "id": "reco8c2xF9edVon7e",
+    "fields": {
+      "name": "Shader Toy: E1M1 - Hangar",
+      "url": "https://www.shadertoy.com/view/lsSXzD",
+      "description": "The start area of Doom E1M1.\nHold down the mouse button and drag the mouse to move.\nWhere you click relative to the center of the screen sets the view direction.\n\nAlso, check out Reinder's excellent Doom2 shader: https://www.shadertoy.com/view/lsB3zD",
+      "authors": [
+        "recorj9n4zeW7yaaI"
+      ],
+      "tags": [
+        "doom",
+        "e1m1",
+        "hangar",
+        "shader"
+      ],
+      "source_code_url": "https://www.shadertoy.com/view/lsSXzD",
+      "date_released": "2014-09-11T07:00:00.000Z",
+      "uses_frameworks": [
+        "Shadertoy"
+      ],
+      "case_study_or_landing_page_urls": "https://www.shadertoy.com/view/lsSXzD\nhttps://www.shadertoy.com/results?filter=vr",
+      "notes": "document.querySelector('myVR').click();\ndocument.querySelector('myFullScreen').click();",
+      "slug": "shader_toy_e1m1_hanger"
+    },
+    "createdTime": "2016-10-25T11:25:12.000Z"
+  },
+  {
+    "id": "recoMmzeZSxi55vcM",
+    "fields": {
+      "name": "three.js: WebVR Rollercoaster",
+      "url": "https://threejs.org/examples/webvr_rollercoaster.html",
+      "authors": [
+        "recZfAEEB1FqeKzDr"
+      ],
+      "tags": [
+        "sample"
+      ],
+      "dependencies": [
+        "three.js"
+      ],
+      "uses_frameworks": [
+        "three.js"
+      ],
+      "slug": "threejs_webvr_rollercoaster"
+    },
+    "createdTime": "2016-10-24T22:22:00.000Z"
+  },
+  {
+    "id": "recospSRYadWQSJVJ",
+    "fields": {
+      "name": "Shopify VR: City Shoes",
+      "url": "https://shopifyvr.myshopify.com/",
+      "uses_frameworks": [
+        "A-Frame"
+      ],
+      "slug": "shopify_vr"
+    },
+    "createdTime": "2016-10-26T09:02:06.000Z"
+  },
+  {
+    "id": "recouZJMQYOmCZwPT",
+    "fields": {
+      "name": "Immersive Workshop: claudia",
+      "url": "http://classes.marpi.pl/immersive/public/claudia",
+      "authors": [
+        "recwfE5lw26shZGpo",
+        "rec6TmVZuUDPR54MM"
+      ],
+      "tags": [
+        "workshop",
+        "experiment"
+      ],
+      "slug": "immersive_workshop_claudia"
+    },
+    "createdTime": "2016-12-16T10:57:04.000Z"
+  },
+  {
+    "id": "recpi5WKq79HyveTd",
+    "fields": {
+      "name": "CadaVR",
+      "description": "A VR medical educational environment that leverages structural models of anatomy, natural input, and mathematical models of physiology to help students learn.",
+      "authors": [
+        "recBKfyRRpYLmoMkg"
+      ],
+      "aframe_version": "0.1.2",
+      "tags": [
+        "education",
+        "aframe"
+      ],
+      "dependencies": [
+        "aframe"
+      ],
+      "source_code_url": "https://github.com/drryanjames/CadaVR",
+      "date_released": "2016-01-26T05:43:00.000Z",
+      "awoa_feature_number": 8,
+      "uses_frameworks": [
+        "A-Frame"
+      ],
+      "screenshots": [
+        {
+          "id": "attJJ8lhMMrmE9GaA",
+          "url": "https://dl.airtable.com/a0gWWGvPTlGWJUOSjvaP_687474703a2f2f696d672e796f75747562652e636f6d2f76692f65597975456a68442d6b382f302e6a7067",
+          "filename": "687474703a2f2f696d672e796f75747562652e636f6d2f76692f65597975456a68442d6b382f302e6a7067",
+          "size": 21149,
+          "type": "image/jpeg",
+          "thumbnails": {
+            "small": {
+              "url": "https://dl.airtable.com/FDe9g9vSVWIxTb6GWzda_small_687474703a2f2f696d672e796f75747562652e636f6d2f76692f65597975456a68442d6b382f302e6a7067",
+              "width": 48,
+              "height": 36
+            },
+            "large": {
+              "url": "https://dl.airtable.com/74tITTMNStKqLCk2YWeO_large_687474703a2f2f696d672e796f75747562652e636f6d2f76692f65597975456a68442d6b382f302e6a7067",
+              "width": 480,
+              "height": 360
+            }
+          }
+        }
+      ],
+      "support_for_multiplayer": [
+        "none"
+      ],
+      "video_urls": "https://www.youtube.com/watch?v=eYyuEjhD-k8\nhttps://gifs.com/gif/cadavr-live-demo-vgL0p8\nhttps://j.gifs.com/vgL0p8@large.mp4\nhttps://j.gifs.com/vgL0p8.gif",
+      "support_for_roomscale": [
+        "none"
+      ],
+      "support_for_oculus_rift": "superb",
+      "support_for_leap_motion": [
+        "required",
+        "yes"
+      ],
+      "slug": "cadavr"
+    },
+    "createdTime": "2016-12-16T13:44:24.000Z"
+  },
+  {
+    "id": "recpuby1ptu98SxOb",
+    "fields": {
+      "name": "DeoVR",
+      "url": "https://deovr.com",
+      "reddit_urls": "https://www.reddit.com/r/oculus/comments/54y38o/announcing_release_of_hexkraft_haus_demo/",
+      "slug": "deover"
+    },
+    "createdTime": "2016-11-01T17:26:24.000Z"
+  },
+  {
+    "id": "recqDDrsqADDMCyLC",
+    "fields": {
+      "name": "Mass Migrations: Glap",
+      "url": "http://massmigrations.com/",
+      "description": "An experiment in mecha-world creation",
+      "authors": [
+        "rec6TmVZuUDPR54MM"
+      ],
+      "screenshots": [
+        {
+          "id": "attLgZiBsbYG3vj48",
+          "url": "https://dl.airtable.com/Tclf2O0STDOjpvn3FbL2_massmigrations.png",
+          "filename": "massmigrations.png",
+          "size": 147056,
+          "type": "image/png",
+          "thumbnails": {
+            "small": {
+              "url": "https://dl.airtable.com/yYHakdZXREGURuTfN6Y8_small_massmigrations.png",
+              "width": 58,
+              "height": 36
+            },
+            "large": {
+              "url": "https://dl.airtable.com/XKaeJygASGyxj4GDXwNG_large_massmigrations.png",
+              "width": 400,
+              "height": 250
+            }
+          }
+        },
+        {
+          "id": "attTd3nucg8aXAXfU",
+          "url": "https://dl.airtable.com/JMvpOK7SuOAAcG0FbEUN_og_image4.jpg",
+          "filename": "og_image4.jpg",
+          "size": 120856,
+          "type": "image/jpeg",
+          "thumbnails": {
+            "small": {
+              "url": "https://dl.airtable.com/NuGK073fQhS3hA24205A_small_og_image4.jpg",
+              "width": 69,
+              "height": 36
+            },
+            "large": {
+              "url": "https://dl.airtable.com/nWh5Bz0lQv60Iwe7la13_large_og_image4.jpg",
+              "width": 512,
+              "height": 512
+            }
+          }
+        }
+      ],
+      "featured": true,
+      "slug": "massmigrations"
+    },
+    "createdTime": "2016-10-24T22:26:14.000Z"
+  },
+  {
+    "id": "recqvEi3Y5hivhWB3",
+    "fields": {
+      "name": "Racer-S",
+      "url": "https://racer.webvr.io/",
+      "slug": "racer_s"
+    },
+    "createdTime": "2016-10-26T11:44:58.000Z"
+  },
+  {
+    "id": "recrL2kIBLEzR4Ed7",
+    "fields": {
+      "name": "A-Frame Racer",
+      "url": "https://samsunginter.net/a-frame-demos/racer/",
+      "slug": "aframe_racer"
+    },
+    "createdTime": "2017-01-06T22:06:34.000Z"
+  },
+  {
+    "id": "recrVwW1BBOPiu8Lx",
+    "fields": {
+      "name": "Marpi Worlds 2: Artur",
+      "url": "http://classes.marpi.pl/worlds2/artur/",
+      "authors": [
+        "rec6TmVZuUDPR54MM"
+      ],
+      "tags": [
+        "workshop",
+        "experiment"
+      ],
+      "slug": "marpi_worlds2_artur"
+    },
+    "createdTime": "2016-12-16T13:05:49.000Z"
+  },
+  {
+    "id": "recrwnvi0LMnwUDl9",
+    "fields": {
+      "name": "L.A. Times: Exploring Mars Gale Crater VR",
+      "url": "http://graphics.latimes.com/mars-gale-crater-vr/",
+      "authors": [
+        "rec3c2C4OPuLCe3AD"
+      ],
+      "case_study_or_landing_page_urls": "http://graphics.latimes.com/mars-gale-crater-how-we-did-it/",
+      "slug": "la_times_mars_gale_crater_vr"
+    },
+    "createdTime": "2016-10-25T10:59:18.000Z"
+  },
+  {
+    "id": "recsHDvYuvdMzfp66",
+    "fields": {
+      "name": "The Polygon Shredder",
+      "url": "https://www.clicktorelease.com/code/polygon-shredder/vr/",
+      "dependencies": [
+        "three.js"
+      ],
+      "uses_frameworks": [
+        "three.js"
+      ],
+      "case_study_or_landing_page_urls": "https://www.clicktorelease.com/code/polygon-shredder/",
+      "slug": "polygon_shredder"
+    },
+    "createdTime": "2016-09-12T05:02:53.000Z"
+  },
+  {
+    "id": "recsIBK6rYFjody4i",
+    "fields": {
+      "name": "WebVR Samples: 05 - Room Scale",
+      "url": "https://webvr.info/samples/05-room-scale.html",
+      "description": "This sample demonstrates how to create scenes that align with the space physically available to the user (when that information is available).",
+      "compat_reports": [
+        "rec6zxuSzPBkbw4ee"
+      ],
+      "slug": "webvr_samples_05_room_scale"
+    },
+    "createdTime": "2017-01-05T07:09:35.000Z"
+  },
+  {
+    "id": "recsuVDjD4iYe3OLI",
+    "fields": {
+      "name": "Chrome Experiments for Virtual Reality",
+      "url": "http://vr.chromeexperiments.com/",
+      "description": "Turn your smartphone into a virtual reality device using Google Chrome and Google Cardboard.",
+      "authors": [
+        "recGuXleoJcMbcXvM",
+        "recHqFBwiMxSr5gYw"
+      ],
+      "tags": [
+        "cardboard",
+        "experiment"
+      ],
+      "slug": "chrome_experiments"
+    },
+    "createdTime": "2016-11-03T01:33:35.000Z"
+  },
+  {
+    "id": "rectRKxsDUe9XmBeO",
+    "fields": {
+      "name": "Broken Mantra",
+      "url": "https://mrdoob.github.io/brokenmantra/?webvr",
+      "authors": [
+        "recZfAEEB1FqeKzDr"
+      ],
+      "dependencies": [
+        "three.js"
+      ],
+      "source_code_url": "https://github.com/mrdoob/brokenmantra",
+      "uses_frameworks": [
+        "three.js"
+      ],
+      "case_study_or_landing_page_urls": "https://mrdoob.github.io/brokenmantra/\n",
+      "slug": "brokenmantra"
+    },
+    "createdTime": "2016-10-25T11:03:43.000Z"
+  },
+  {
+    "id": "rectS7faCVoSS5Och",
+    "fields": {
+      "name": "Crocotile WebGL",
+      "url": "https://toji.github.io/crocotile-webgl/",
+      "slug": "crocotile"
+    },
+    "createdTime": "2016-11-10T03:11:48.000Z"
+  },
+  {
+    "id": "recurs1NUW6LGqCHv",
+    "fields": {
+      "name": "Spaciblō",
+      "url": "https://github.com/Spaciblo/spaciblo-core",
+      "description": "WebGL and WebVR on Go and ES6.",
+      "authors": [
+        "recuAhIckCzm0ZeQi"
+      ],
+      "tags": [
+        "social",
+        "community"
+      ],
+      "source_code_url": "https://github.com/Spaciblo/spaciblo-core",
+      "screenshots": [
+        {
+          "id": "attzFj3rP5OuwRIKU",
+          "url": "https://dl.airtable.com/CYMcHhgoSRaWmnHd10KM_C1vmI2wXUAAgq9z.jpg",
+          "filename": "C1vmI2wXUAAgq9z.jpg",
+          "size": 40947,
+          "type": "image/jpeg",
+          "thumbnails": {
+            "small": {
+              "url": "https://dl.airtable.com/K1vslgjDReKokeTuJmal_small_C1vmI2wXUAAgq9z.jpg",
+              "width": 54,
+              "height": 36
+            },
+            "large": {
+              "url": "https://dl.airtable.com/KO1jDe1UQPO2uIMj49Am_large_C1vmI2wXUAAgq9z.jpg",
+              "width": 512,
+              "height": 500
+            }
+          }
+        },
+        {
+          "id": "attGVB6fuqGLhnlfc",
+          "url": "https://dl.airtable.com/i8qa51hhSRag4glcpQH4_Czl_muTUcAE_cto.jpg",
+          "filename": "Czl_muTUcAE_cto.jpg",
+          "size": 38747,
+          "type": "image/jpeg",
+          "thumbnails": {
+            "small": {
+              "url": "https://dl.airtable.com/8heKamDS3q6F4k4MZDMZ_small_Czl_muTUcAE_cto.jpg",
+              "width": 64,
+              "height": 36
+            },
+            "large": {
+              "url": "https://dl.airtable.com/DUJDQMkQ5igUHN8snCKT_large_Czl_muTUcAE_cto.jpg",
+              "width": 512,
+              "height": 512
+            }
+          }
+        }
+      ],
+      "videos": [
+        {
+          "id": "attYN1VXFWBZK8lr3",
+          "url": "https://dl.airtable.com/6wLcdc73SD6Clhax6Na7_Dt3RzLpuML9PNyg3.mp4",
+          "filename": "Dt3RzLpuML9PNyg3.mp4",
+          "size": 108614,
+          "type": "video/mp4"
+        },
+        {
+          "id": "attdtSiI1xLZGAf35",
+          "url": "https://dl.airtable.com/FhcSu2HqRhS05CtOnD4C_75GEHi1-e971vuTC.mp4",
+          "filename": "75GEHi1-e971vuTC.mp4",
+          "size": 209553,
+          "type": "video/mp4"
+        },
+        {
+          "id": "attUvAhNQgHbNRtzy",
+          "url": "https://dl.airtable.com/8Wiqkt08SSCcnTFIsclb_INa6tUddVJXWapJ-.mp4",
+          "filename": "INa6tUddVJXWapJ-.mp4",
+          "size": 148678,
+          "type": "video/mp4"
+        },
+        {
+          "id": "attG4hy61Ff9Jlca1",
+          "url": "https://dl.airtable.com/XBOwalx0SFWkGl4QYmhH_vid1.m4v",
+          "filename": "vid1.m4v",
+          "size": 2119001,
+          "type": "video/mp4"
+        }
+      ],
+      "video_urls": "https://spaciblo.org/vid1.m4v",
+      "tweet_urls": "https://twitter.com/eracoon/status/824374677749563395\nhttps://twitter.com/eracoon/status/818183114535079937\nhttps://twitter.com/TrevorFSmith/status/815300658119086080\nhttps://twitter.com/TrevorFSmith/status/814342954471067649\nhttps://twitter.com/TrevorFSmith/status/808817976107380736\n",
+      "slug": "spaciblo",
+      "date_added": "2017-01-26T09:00:00.000Z",
+      "date_updated": "2017-01-26T09:00:00.000Z"
+    },
+    "createdTime": "2017-01-26T08:57:08.000Z"
+  },
+  {
+    "id": "recv1TJBiyC0x1G78",
+    "fields": {
+      "name": "Marpi VR",
+      "url": "http://classes.marpi.pl/webvr/",
+      "authors": [
+        "rec6TmVZuUDPR54MM"
+      ],
+      "tags": [
+        "workshop",
+        "experiment"
+      ],
+      "source_code_url": "https://github.com/marpi/vr",
+      "screenshots": [
+        {
+          "id": "attQDHmYYZ57KamlH",
+          "url": "https://dl.airtable.com/vjMENJ9mQZuygbutSD8B_image.jpg",
+          "filename": "image.jpg",
+          "size": 422905,
+          "type": "image/jpeg",
+          "thumbnails": {
+            "small": {
+              "url": "https://dl.airtable.com/dshc1mIQifo8IUIHCLZg_small_image.jpg",
+              "width": 61,
+              "height": 36
+            },
+            "large": {
+              "url": "https://dl.airtable.com/va3UUWtTZid7Sh9xo71C_large_image.jpg",
+              "width": 512,
+              "height": 512
+            }
+          }
+        }
+      ],
+      "case_study_or_landing_page_urls": "https://github.com/marpi/vr/blob/master/index.html",
+      "slug": "marpi_vr"
+    },
+    "createdTime": "2016-12-16T13:09:48.000Z"
+  },
+  {
+    "id": "recvLVAWSsg3ucXoX",
+    "fields": {
+      "name": "Immersive Workshop: everyone ",
+      "url": "http://classes.marpi.pl/immersive/public/everyone",
+      "authors": [
+        "rec6TmVZuUDPR54MM"
+      ],
+      "tags": [
+        "workshop",
+        "experiment"
+      ],
+      "slug": "immersive_workshop_everyone"
+    },
+    "createdTime": "2016-12-16T10:57:04.000Z"
+  },
+  {
+    "id": "recvdjQAb68rVCM4R",
+    "fields": {
+      "name": "Virtual Forest",
+      "url": "http://virtualforest.io/",
+      "description": "Tracking seasonal change in a virtual forest",
+      "authors": [
+        "rec8a2KfWsIri4GtP"
+      ],
+      "tags": [
+        "photosphere",
+        "ambient",
+        "nature"
+      ],
+      "dependencies": [
+        "aframe",
+        "three.js"
+      ],
+      "source_code_url": "https://github.com/khufkens/virtualforest-data",
+      "uses_frameworks": [
+        "A-Frame"
+      ],
+      "screenshots": [
+        {
+          "id": "attn97HBjfQqD4d4g",
+          "url": "https://dl.airtable.com/wH6v6FKDTA6cV7KPdm5K_CvFmtu1VMAA_MmA.jpg%3Alarge",
+          "filename": "CvFmtu1VMAA_MmA.jpg:large",
+          "size": 276254,
+          "type": "image/jpeg",
+          "thumbnails": {
+            "small": {
+              "url": "https://dl.airtable.com/liAhyXRBGS4RtVv6tRSg_small_CvFmtu1VMAA_MmA.jpg%3Alarge",
+              "width": 67,
+              "height": 36
+            },
+            "large": {
+              "url": "https://dl.airtable.com/Uu5L2yIVS6ai1B8VthyM_large_CvFmtu1VMAA_MmA.jpg%3Alarge",
+              "width": 512,
+              "height": 512
+            }
+          }
+        }
+      ],
+      "case_study_or_landing_page_urls": "https://github.com/khufkens/virtualforest-data\nhttp://www.khufkens.com/2016/10/06/virtualforest-io/\nhttps://motherboard.vice.com/read/virtual-forest",
+      "notes": "The aim of the Virtual Forest project is to immersively track the seasons using 360 photography and time lapse movies (once enough data is collected) of a forest in the North Eastern US.\n\nYou can track the season in a regular browser, or on a mobile device supporting gyroscope feedback. For a complete immersive experience Virtual Forest supports Google Cardboard and Samsung GearVR. Additional support for VR headsets such as the HTC Vive and Oculus Rift is provided through the A-frame framework.\n\nThe project gives everyone the experience of tracking the seasons in a North Eastern deciduous forest through tele-presence. It allows for leaf peeping from a distance and visualizes, otherwise slow, ecological processes using timelapse movies. The images gathered will also support research efforts in understanding the timing of changes to the canopy structure. Above all, I hope Virtual Forest will inspire people to venture outdoors and explore a forest in real life as Virtual Forest remains a proxy for what is a wonderful world.",
+      "tweet_urls": "https://twitter.com/koen_hufkens/status/784134353940996096\nhttps://twitter.com/motherboard/status/787655518068219905",
+      "evaluation": "chromium + rift: does not work at all",
+      "slug": "virtual_forest"
+    },
+    "createdTime": "2016-10-26T11:42:11.000Z"
+  },
+  {
+    "id": "recvogOXcVGCsWs65",
+    "fields": {
+      "name": "Immersive Workshop",
+      "url": "http://classes.marpi.pl/immersive/",
+      "description": "Immersive Three.js Workshop at Gray Area (San Francisco, CA).",
+      "authors": [
+        "rec6TmVZuUDPR54MM"
+      ],
+      "tags": [
+        "workshop",
+        "experiment"
+      ],
+      "source_code_url": "https://github.com/marpi/immersive",
+      "screenshots": [
+        {
+          "id": "attGPjCgMK2KhKM1e",
+          "url": "https://dl.airtable.com/O0I0NmySNitGs7IhL0bw_image1.jpg",
+          "filename": "image1.jpg",
+          "size": 228163,
+          "type": "image/jpeg",
+          "thumbnails": {
+            "small": {
+              "url": "https://dl.airtable.com/bVJ5YwIuRwGxwzHdCcTY_small_image1.jpg",
+              "width": 61,
+              "height": 36
+            },
+            "large": {
+              "url": "https://dl.airtable.com/17pew85RYS45qwfIe2pW_large_image1.jpg",
+              "width": 512,
+              "height": 512
+            }
+          }
+        }
+      ],
+      "case_study_or_landing_page_urls": "http://grayarea.org/education/immersive/",
+      "slug": "immersive_workshop"
+    },
+    "createdTime": "2016-12-16T10:51:45.000Z"
+  },
+  {
+    "id": "recwJGC8CDCQ5oUUK",
+    "fields": {
+      "name": "Marpi Worlds 2: Wave",
+      "url": "http://classes.marpi.pl/worlds2/wave/",
+      "authors": [
+        "rec6TmVZuUDPR54MM"
+      ],
+      "tags": [
+        "workshop",
+        "experiment"
+      ],
+      "slug": "marpi_worlds2_wave"
+    },
+    "createdTime": "2016-12-16T13:05:49.000Z"
+  },
+  {
+    "id": "recwXuoG7OZSlcI7u",
+    "fields": {
+      "name": "Immersive Workshop: laura",
+      "url": "http://classes.marpi.pl/immersive/public/laura",
+      "authors": [
+        "rec6TmVZuUDPR54MM"
+      ],
+      "tags": [
+        "workshop",
+        "experiment"
+      ],
+      "slug": "immersive_workshop_laura"
+    },
+    "createdTime": "2016-12-16T10:57:04.000Z"
+  },
+  {
+    "id": "recxFIKQCfj6nQII4",
+    "fields": {
+      "name": "three.js: WebVR Panorama",
+      "url": "https://threejs.org/examples/webvr_panorama.html",
+      "authors": [
+        "recZfAEEB1FqeKzDr"
+      ],
+      "tags": [
+        "sample"
+      ],
+      "dependencies": [
+        "three.js"
+      ],
+      "uses_frameworks": [
+        "three.js"
+      ],
+      "slug": "threejs_webvr_panorama"
+    },
+    "createdTime": "2016-10-24T22:07:38.000Z"
+  },
+  {
+    "id": "recxdthFh8LAJIWw7",
+    "fields": {
+      "name": "Whisper Momoko",
+      "url": "http://aidn.jp/momoko_vr/",
+      "authors": [
+        "recr7QCKGa8VSNiQy",
+        "recHwYfwBOUyQhYL6"
+      ],
+      "tags": [
+        "experiment",
+        "audio",
+        "music"
+      ],
+      "screenshots": [
+        {
+          "id": "attRNDKgdfBpcHbxG",
+          "url": "https://dl.airtable.com/wqSlIFOKRt6h3DZOhPTh_upload0.png",
+          "filename": "upload0.png",
+          "size": 8717,
+          "type": "image/png",
+          "thumbnails": {
+            "small": {
+              "url": "https://dl.airtable.com/VJ64GwLeRmOY1fxNsd1R_small_upload0.png",
+              "width": 64,
+              "height": 36
+            },
+            "large": {
+              "url": "https://dl.airtable.com/yuXI1wdpQ6qPocJhM2Wu_large_upload0.png",
+              "width": 512,
+              "height": 394
+            }
+          }
+        },
+        {
+          "id": "attL0Seb5ITsl31TP",
+          "url": "https://dl.airtable.com/VuZRO5QyTA2w4woWd3Vx_upload1.png",
+          "filename": "upload1.png",
+          "size": 7905,
+          "type": "image/png",
+          "thumbnails": {
+            "small": {
+              "url": "https://dl.airtable.com/XnFIyD2FSia6UlGYOBOf_small_upload1.png",
+              "width": 64,
+              "height": 36
+            },
+            "large": {
+              "url": "https://dl.airtable.com/A5fxsjCxT2ik2dpfM7DM_large_upload1.png",
+              "width": 512,
+              "height": 394
+            }
+          }
+        }
+      ],
+      "videos": [
+        {
+          "id": "attjGfG8Lss6YwQqI",
+          "url": "https://dl.airtable.com/95eQhRCqRzOGWC7FG10I_giphy.mp4",
+          "filename": "giphy.mp4",
+          "size": 308327,
+          "type": "video/mp4"
+        }
+      ],
+      "featured": true,
+      "compat_reports": [
+        "recQE7QA1LExLFNMv"
+      ],
+      "slug": "whisper_momoko"
+    },
+    "createdTime": "2017-01-05T07:10:46.000Z"
+  },
+  {
+    "id": "recxfGUMzt5RTZuMJ",
+    "fields": {
+      "name": "Curiosity 360°",
+      "url": "https://ybinstock.github.io/curiosity_360/",
+      "dependencies": [
+        "aframe",
+        "three.js"
+      ],
+      "uses_frameworks": [
+        "A-Frame"
+      ],
+      "slug": "curiosity_360"
+    },
+    "createdTime": "2016-10-14T22:19:30.000Z"
+  },
+  {
+    "id": "recyAoicBmQTjzfoQ",
+    "fields": {
+      "name": "Virtual Reality Art Sessions",
+      "url": "https://virtualart.chromeexperiments.com/vr/",
+      "description": "Watch a Tilt Brush artist at work",
+      "authors": [
+        "recGuXleoJcMbcXvM"
+      ],
+      "tags": [
+        "art",
+        "tiltbrush",
+        "drawing"
+      ],
+      "genres": [
+        "art"
+      ],
+      "support_for_htc_vive": "untested",
+      "screenshots": [
+        {
+          "id": "atttDEqkAh7pNrLPS",
+          "url": "https://dl.airtable.com/hiuUsUe5QL2xLVZKjN48_virtual-art-session.png",
+          "filename": "virtual-art-session.png",
+          "size": 41535,
+          "type": "image/png",
+          "thumbnails": {
+            "small": {
+              "url": "https://dl.airtable.com/msrfJ52TMu3cZFeNluPW_small_virtual-art-session.png",
+              "width": 64,
+              "height": 36
+            },
+            "large": {
+              "url": "https://dl.airtable.com/qTInVuVAQem9mEYqAFB1_large_virtual-art-session.png",
+              "width": 400,
+              "height": 226
+            }
+          }
+        }
+      ],
+      "notes": "The project adapts Virtual Art Sessions into virtual reality. Using a WebVR-enabled browser and a room-scale VR system, you can walk around and explore participating artists working in Tilt Brush. It's a very experimental work-in-progress that has only been tested in experimental WebVR Chromium builds for the HTC Vive.\n\nThe demo uses two controllers – one controller acts as a menu, and the other is a pointer to choose options from that menu. If the controllers are not appearing in VR, try pulling the trigger.",
+      "support_for_oculus_rift": "untested",
+      "featured": true,
+      "slug": "virtual_art"
+    },
+    "createdTime": "2016-12-16T15:34:13.000Z"
+  },
+  {
+    "id": "recyPd7m8yflhSdup",
+    "fields": {
+      "name": "Shader Toy: Menger Sponge",
+      "url": "https://www.shadertoy.com/view/4sX3Rn",
+      "description": "Four iterations of the famous fractal structure. See http://www.iquilezles.org/www/articles/menger/menger.htm for the full explanation of how this was done.",
+      "authors": [
+        "recorj9n4zeW7yaaI"
+      ],
+      "tags": [
+        "raymarching",
+        "fractal",
+        "menger",
+        "shader"
+      ],
+      "source_code_url": "https://www.shadertoy.com/view/4sX3Rn",
+      "uses_frameworks": [
+        "Shadertoy"
+      ],
+      "case_study_or_landing_page_urls": "https://www.shadertoy.com/view/4sX3Rn\nhttps://www.shadertoy.com/results?filter=vr",
+      "slug": "shader_toy_menger_sponge"
+    },
+    "createdTime": "2016-10-25T11:34:58.000Z"
+  },
+  {
+    "id": "recyWpXZo039QpjqZ",
+    "fields": {
+      "name": "Day and Night",
+      "url": "https://dayandnight.moar.io",
+      "authors": [
+        "recoW6gIHufu7suBL"
+      ],
+      "tags": [
+        "space"
+      ],
+      "dependencies": [
+        "three.js"
+      ],
+      "date_released": "2016-12-15T05:08:00.000Z",
+      "genres": [
+        "education",
+        "space",
+        "experimental"
+      ],
+      "support_for_htc_vive": "superb",
+      "uses_frameworks": [
+        "three.js"
+      ],
+      "screenshots": [
+        {
+          "id": "atthUXITh6dUN23Mj",
+          "url": "https://dl.airtable.com/eHN135QWWl71MfRNkPgw_day-and-night.png",
+          "filename": "day-and-night.png",
+          "size": 50560,
+          "type": "image/png",
+          "thumbnails": {
+            "small": {
+              "url": "https://dl.airtable.com/Q97ucupVRqOprrVncHkN_small_day-and-night.png",
+              "width": 64,
+              "height": 36
+            },
+            "large": {
+              "url": "https://dl.airtable.com/uYGW7EsgQrOvavOrg6Xq_large_day-and-night.png",
+              "width": 400,
+              "height": 226
+            }
+          }
+        },
+        {
+          "id": "attWtJPLc2cH0dtGL",
+          "url": "https://dl.airtable.com/caEtggsNQWaoI9g9aoV6_favicon-144.png",
+          "filename": "favicon-144.png",
+          "size": 1185,
+          "type": "image/png",
+          "thumbnails": {
+            "small": {
+              "url": "https://dl.airtable.com/bHi3MX9iQfSQ14LV5JFA_small_favicon-144.png",
+              "width": 36,
+              "height": 36
+            },
+            "large": {
+              "url": "https://dl.airtable.com/VQ9cG4qJQzu4g5Wo7yfa_large_favicon-144.png",
+              "width": 144,
+              "height": 144
+            }
+          }
+        }
+      ],
+      "support_for_multiplayer": [
+        "none"
+      ],
+      "case_study_or_landing_page_urls": "https://medium.com/@stew_rtsmith/day-and-night-f5f2a56112ea",
+      "notes": "Has your child asked what makes day and night? Show them. In your virtual reality headset they’ll witness the sun bathe one hemisphere of Earth in day while the other twinkles with the artificial lights of night.\n\nAdjusting the position and scale of this virtual solar system is a snap. Are the earth and moon floating too high above the floor for your child to see comfortably? Hold down the trigger on either Vive controller and push, drag, or rotate the entire universe around you as if you were clicking and dragging with a mouse.\n\nNeed to shrink down the universe to better fit your space? Hold down both Vive controller triggers at the same time to pinch, zoom, and rotate the space around you.\n\nREQUIREMENTS\n* HTC Vive\n* WebVR Browser (Chromium, Firefox Nightly)\n* Wonder\n\nIf the earth does not appear in your Vive goggles after clicking the “View in Vive” button, try clicking it again to disengage, and then again to re-engage. It’s still early days for WebVR. Your pioneer spirit is appreciated.\n\nCOLOPHON\n\nDay & Night is the first edition of the Virtual Reality Learning Series, created by Stewart Smith and brought to you by Moar, a virtual reality consultancy in Brooklyn, New York. For more information read Stewart’s Day & Night post on Medium or direct your questions and comments to @stew_rtsmith on Twitter.\n\nThanks to NASA and other parties for providing license-free textures of our solar system to the public. Thanks to the authors of Three.js for their fine toolkit and code examples. Finally, thanks to HTC, Valve, and the browser keepers who make delivering VR over the Web possible. Caution, kids! Day & Night is not suitable for celestial navigation. While the heavenly bodies represented here are more or less to scale, the radii and nature of their orbits are not.",
+      "webvr_api_version_support": 1.1,
+      "support_for_htc_vive_controllers": [
+        "yes"
+      ],
+      "community_picks": [
+        "recCLC3wB4jpV1kKP"
+      ],
+      "support_for_positional": [
+        "yes"
+      ],
+      "support_for_roomscale": [
+        "yes"
+      ],
+      "support_for_standing": [
+        "yes"
+      ],
+      "featured": true,
+      "compat_reports": [
+        "rec52aM5wsjCElEEV"
+      ],
+      "slug": "day_and_night"
+    },
+    "createdTime": "2017-01-06T01:06:34.000Z"
+  },
+  {
+    "id": "recytWuc6BUVuSJZ2",
+    "fields": {
+      "name": "WebVR Samples: XX - 360° Panorama",
+      "url": "https://webvr.info/samples/XX-360-panorama.html",
+      "description": "This sample demonstrates how to render a 360-degree panoramic image in VR.",
+      "compat_reports": [
+        "recUkQYVQcwCXYqyO"
+      ],
+      "slug": "webvr_samples_XX_360_panorama"
+    },
+    "createdTime": "2017-01-05T07:09:40.000Z"
+  },
+  {
+    "id": "reczHzIATmsUHsVQz",
+    "fields": {
+      "name": "Marpi Worlds 2: Dilan",
+      "url": "http://classes.marpi.pl/worlds2/dilan/",
+      "authors": [
+        "rec6TmVZuUDPR54MM"
+      ],
+      "tags": [
+        "workshop",
+        "experiment"
+      ],
+      "slug": "marpi_worlds2_dilan"
+    },
+    "createdTime": "2016-12-16T13:05:49.000Z"
+  }
+]

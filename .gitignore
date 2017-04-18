@@ -1,0 +1,17 @@
+*.*log
+.*_packages
+.DS_Store
+._*
+.cache
+.env*
+.hashes*.json
+.sw*
+ecosystem.json
+log-*
+log.txt*
+logs
+node_modules
+norch-index
+si
+snapshots
+test/sandbox

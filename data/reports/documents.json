@@ -1,0 +1,505 @@
+[
+  {
+    "id": "rec0KIAKsNw54zoQP",
+    "scene": [
+      "reclAZHY4B3VQBU2V"
+    ],
+    "reporter": [
+      "recCLC3wB4jpV1kKP"
+    ],
+    "os_name": "Windows",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:53.0) Gecko/20100101 Firefox/53.0",
+    "browser_version": "53.0",
+    "webvr_browser_name": "Firefox Nightly",
+    "browser_build_number": "20170105030229",
+    "os_version": "10",
+    "cpu_architecture": "amd64",
+    "engine_version": "53.0",
+    "engine_name": "Gecko",
+    "browser_name": "Firefox",
+    "browser_major": "53.0",
+    "headset": "HTC Vive",
+    "gamepads": [
+      "HTC Vive CV1 motion controllers"
+    ]
+  },
+  {
+    "id": "rec1NElkpGYs1tAqA",
+    "scene": [
+      "rec7TBqUpC6sfaoTU"
+    ],
+    "reporter": [
+      "recCLC3wB4jpV1kKP"
+    ],
+    "os_name": "Windows",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2869.0 Safari/537.36",
+    "webvr_browser_name": "Chromium",
+    "os_version": "10",
+    "cpu_architecture": "amd64",
+    "engine_version": "537.36",
+    "engine_name": "WebKit",
+    "browser_name": "Chrome",
+    "headset": "Oculus Rift CV1"
+  },
+  {
+    "id": "rec3ZI2Iz9pAYP61T",
+    "scene": [
+      "rec2LwSvkH4h8lOcM"
+    ],
+    "reporter": [
+      "recCLC3wB4jpV1kKP"
+    ],
+    "os_name": "Windows",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2869.0 Safari/537.36",
+    "webvr_browser_name": "Chromium",
+    "os_version": "10",
+    "cpu_architecture": "amd64",
+    "engine_version": "537.36",
+    "engine_name": "WebKit",
+    "browser_name": "Chrome",
+    "headset": "Oculus Rift CV1"
+  },
+  {
+    "id": "rec52aM5wsjCElEEV",
+    "report type": "success",
+    "scene": [
+      "recyWpXZo039QpjqZ"
+    ],
+    "date_submitted": "2017-01-06T01:46:00.000Z",
+    "reporter": [
+      "recCLC3wB4jpV1kKP"
+    ],
+    "os_name": "Windows",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:53.0) Gecko/20100101 Firefox/53.0",
+    "browser_version": "53.0",
+    "webvr_browser_name": "Firefox Nightly",
+    "browser_build_number": "20170105030229",
+    "os_version": "10",
+    "cpu_architecture": "amd64",
+    "engine_version": "53.0",
+    "engine_name": "Gecko",
+    "browser_name": "Firefox",
+    "browser_major": "53.0",
+    "notes": "Controllers required to move the Earth.",
+    "headset": "HTC Vive",
+    "gamepads": [
+      "HTC Vive CV1 motion controllers"
+    ],
+    "support_for_positional": [
+      "yes",
+      "required"
+    ],
+    "support_for_roomscale": [
+      "yes",
+      "required"
+    ],
+    "support_for_standing": [
+      "yes"
+    ],
+    "support_for_multiplayer": [
+      "none"
+    ],
+    "support_for_htc_vive_controllers": [
+      "yes",
+      "required"
+    ]
+  },
+  {
+    "id": "rec6wS5QuY81EErpu",
+    "scene": [
+      "recCnyKTvid7Hxqlj"
+    ],
+    "reporter": [
+      "recCLC3wB4jpV1kKP"
+    ],
+    "os_name": "Windows",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2869.0 Safari/537.36",
+    "webvr_browser_name": "Chromium",
+    "os_version": "10",
+    "cpu_architecture": "amd64",
+    "engine_version": "537.36",
+    "engine_name": "WebKit",
+    "browser_name": "Chrome",
+    "headset": "Oculus Rift CV1"
+  },
+  {
+    "id": "rec6zxuSzPBkbw4ee",
+    "scene": [
+      "recsIBK6rYFjody4i"
+    ],
+    "reporter": [
+      "recCLC3wB4jpV1kKP"
+    ],
+    "os_name": "Windows",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2869.0 Safari/537.36",
+    "webvr_browser_name": "Chromium",
+    "os_version": "10",
+    "cpu_architecture": "amd64",
+    "engine_version": "537.36",
+    "engine_name": "WebKit",
+    "browser_name": "Chrome",
+    "headset": "Oculus Rift CV1"
+  },
+  {
+    "id": "rec7Vyfi5sHVT0kIf",
+    "reporter": [
+      "recCLC3wB4jpV1kKP"
+    ],
+    "os_name": "Windows",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:53.0) Gecko/20100101 Firefox/53.0",
+    "browser_version": "53.0",
+    "webvr_browser_name": "Firefox Nightly",
+    "browser_build_number": "20170105030229",
+    "os_version": "10",
+    "cpu_architecture": "amd64",
+    "engine_version": "53.0",
+    "engine_name": "Gecko",
+    "browser_name": "Firefox",
+    "browser_major": "53.0",
+    "headset": "HTC Vive",
+    "gamepads": [
+      "HTC Vive CV1 motion controllers"
+    ]
+  },
+  {
+    "id": "rec7zZ92MKr6DhpRA",
+    "scene": [
+      "rec0fQrLa4b307itB"
+    ],
+    "reporter": [
+      "recCLC3wB4jpV1kKP"
+    ],
+    "os_name": "Windows",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2869.0 Safari/537.36",
+    "webvr_browser_name": "Chromium",
+    "os_version": "10",
+    "cpu_architecture": "amd64",
+    "engine_version": "537.36",
+    "engine_name": "WebKit",
+    "browser_name": "Chrome",
+    "headset": "Oculus Rift CV1"
+  },
+  {
+    "id": "recAr0U9XHHMBC9YW",
+    "scene": [
+      "recRugtgbIxqNLEWr"
+    ],
+    "reporter": [
+      "recCLC3wB4jpV1kKP"
+    ],
+    "os_name": "Windows",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2869.0 Safari/537.36",
+    "webvr_browser_name": "Chromium",
+    "os_version": "10",
+    "cpu_architecture": "amd64",
+    "engine_version": "537.36",
+    "engine_name": "WebKit",
+    "browser_name": "Chrome",
+    "headset": "Oculus Rift CV1",
+    "support_for_multiplayer": [
+      "none"
+    ]
+  },
+  {
+    "id": "recDcUQHxz2YxC4HR",
+    "scene": [
+      "rec82q2fhknRSTY5k"
+    ],
+    "reporter": [
+      "recCLC3wB4jpV1kKP"
+    ],
+    "os_name": "Windows",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2869.0 Safari/537.36",
+    "webvr_browser_name": "Chromium",
+    "os_version": "10",
+    "cpu_architecture": "amd64",
+    "engine_version": "537.36",
+    "engine_name": "WebKit",
+    "browser_name": "Chrome",
+    "headset": "Oculus Rift CV1"
+  },
+  {
+    "id": "recO7i6brRTrlreiJ",
+    "scene": [
+      "recIeKmwH5HJcyib4"
+    ],
+    "reporter": [
+      "recCLC3wB4jpV1kKP"
+    ],
+    "os_name": "Windows",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2869.0 Safari/537.36",
+    "webvr_browser_name": "Chromium",
+    "os_version": "10",
+    "cpu_architecture": "amd64",
+    "engine_version": "537.36",
+    "engine_name": "WebKit",
+    "browser_name": "Chrome",
+    "headset": "Oculus Rift CV1"
+  },
+  {
+    "id": "recQE7QA1LExLFNMv",
+    "scene": [
+      "recxdthFh8LAJIWw7"
+    ],
+    "reporter": [
+      "recCLC3wB4jpV1kKP"
+    ],
+    "os_name": "Windows",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:53.0) Gecko/20100101 Firefox/53.0",
+    "browser_version": "53.0",
+    "webvr_browser_name": "Safari",
+    "browser_build_number": "20170105030229",
+    "os_version": "10",
+    "cpu_architecture": "amd64",
+    "engine_version": "53.0",
+    "engine_name": "Gecko",
+    "browser_name": "Firefox",
+    "browser_major": "53.0",
+    "headset": "Google Cardboard",
+    "gamepads": [
+      "HTC Vive CV1 motion controllers"
+    ]
+  },
+  {
+    "id": "recUkQYVQcwCXYqyO",
+    "scene": [
+      "recytWuc6BUVuSJZ2"
+    ],
+    "reporter": [
+      "recCLC3wB4jpV1kKP"
+    ],
+    "os_name": "Windows",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2869.0 Safari/537.36",
+    "webvr_browser_name": "Chromium",
+    "os_version": "10",
+    "cpu_architecture": "amd64",
+    "engine_version": "537.36",
+    "engine_name": "WebKit",
+    "browser_name": "Chrome",
+    "headset": "Oculus Rift CV1"
+  },
+  {
+    "id": "recYAkRsQkEo0k0Yl",
+    "scene": [
+      "recj4x8dvnzTIEz59"
+    ],
+    "reporter": [
+      "recCLC3wB4jpV1kKP"
+    ],
+    "os_name": "Windows",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2869.0 Safari/537.36",
+    "webvr_browser_name": "Chromium",
+    "os_version": "10",
+    "cpu_architecture": "amd64",
+    "engine_version": "537.36",
+    "engine_name": "WebKit",
+    "browser_name": "Chrome",
+    "headset": "Oculus Rift CV1"
+  },
+  {
+    "id": "recZ1xhnduKWSrWpP",
+    "report type": "success",
+    "scene": [
+      "recO6iw1mMxMbQDIu"
+    ],
+    "date_submitted": "2017-01-06T02:27:00.000Z",
+    "reporter": [
+      "recCLC3wB4jpV1kKP"
+    ],
+    "os_name": "Windows",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:53.0) Gecko/20100101 Firefox/53.0",
+    "browser_version": "53.0",
+    "webvr_browser_name": "Firefox Nightly",
+    "browser_build_number": "20170105030229",
+    "os_version": "10",
+    "cpu_architecture": "amd64",
+    "engine_version": "53.0",
+    "engine_name": "Gecko",
+    "browser_name": "Firefox",
+    "browser_major": "53.0",
+    "notes": "Static, positional, roomscale. Controllers unused.",
+    "headset": "HTC Vive",
+    "gamepads": [
+      "HTC Vive CV1 motion controllers"
+    ],
+    "support_for_multiplayer": [
+      "none"
+    ],
+    "support_for_htc_vive_controllers": [
+      "none"
+    ]
+  },
+  {
+    "id": "recZINrnlz5tWIRqU",
+    "scene": [
+      "recNd0l39p94cMCvb"
+    ],
+    "reporter": [
+      "recCLC3wB4jpV1kKP"
+    ],
+    "os_name": "Windows",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2869.0 Safari/537.36",
+    "webvr_browser_name": "Chromium",
+    "os_version": "10",
+    "cpu_architecture": "amd64",
+    "engine_version": "537.36",
+    "engine_name": "WebKit",
+    "browser_name": "Chrome",
+    "headset": "Oculus Rift CV1"
+  },
+  {
+    "id": "recaKlJmmxHrn55Ks",
+    "scene": [
+      "recdkwGwqAsEpx4co"
+    ],
+    "reporter": [
+      "recCLC3wB4jpV1kKP"
+    ],
+    "os_name": "Windows",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2869.0 Safari/537.36",
+    "webvr_browser_name": "Chromium",
+    "os_version": "10",
+    "cpu_architecture": "amd64",
+    "engine_version": "537.36",
+    "engine_name": "WebKit",
+    "browser_name": "Chrome",
+    "headset": "Oculus Rift CV1"
+  },
+  {
+    "id": "recjAFs5aXqoQ9sWO",
+    "scene": [
+      "rec8faL9ypWhZNsvq"
+    ],
+    "reporter": [
+      "recCLC3wB4jpV1kKP"
+    ],
+    "os_name": "Windows",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2869.0 Safari/537.36",
+    "webvr_browser_name": "Chromium",
+    "os_version": "10",
+    "cpu_architecture": "amd64",
+    "engine_version": "537.36",
+    "engine_name": "WebKit",
+    "browser_name": "Chrome",
+    "headset": "Oculus Rift CV1"
+  },
+  {
+    "id": "recjq4QQGc3RqHoRZ",
+    "scene": [
+      "recVATLn0yyTy67Kb"
+    ],
+    "reporter": [
+      "recCLC3wB4jpV1kKP"
+    ],
+    "os_name": "Windows",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2869.0 Safari/537.36",
+    "webvr_browser_name": "Chromium",
+    "os_version": "10",
+    "cpu_architecture": "amd64",
+    "engine_version": "537.36",
+    "engine_name": "WebKit",
+    "browser_name": "Chrome",
+    "notes": "45-60 FPS. Peaks at 60 FPS. Peripherial vision is distorted when panning.",
+    "headset": "Oculus Rift CV1"
+  },
+  {
+    "id": "reckSyXrfT3PY7qfz",
+    "scene": [
+      "recM6HzWZhxLQBLL7"
+    ],
+    "reporter": [
+      "recCLC3wB4jpV1kKP"
+    ],
+    "os_name": "Windows",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2869.0 Safari/537.36",
+    "webvr_browser_name": "Chromium",
+    "os_version": "10",
+    "cpu_architecture": "amd64",
+    "engine_version": "537.36",
+    "engine_name": "WebKit",
+    "browser_name": "Chrome",
+    "headset": "Oculus Rift CV1"
+  },
+  {
+    "id": "recuw9PUlOny8YUs7",
+    "scene": [
+      "recbAoTEeEhjYu7IX"
+    ],
+    "reporter": [
+      "recCLC3wB4jpV1kKP"
+    ],
+    "os_name": "Windows",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2869.0 Safari/537.36",
+    "webvr_browser_name": "Chromium",
+    "os_version": "10",
+    "cpu_architecture": "amd64",
+    "engine_version": "537.36",
+    "engine_name": "WebKit",
+    "browser_name": "Chrome",
+    "headset": "Oculus Rift CV1"
+  },
+  {
+    "id": "recwvA4D30800cEv6",
+    "report type": "success",
+    "scene": [
+      "recKUR6WcM12ARFrT"
+    ],
+    "date_submitted": "2017-01-06T02:02:00.000Z",
+    "reporter": [
+      "recCLC3wB4jpV1kKP"
+    ],
+    "os_name": "Windows",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:53.0) Gecko/20100101 Firefox/53.0",
+    "browser_version": "53.0",
+    "webvr_browser_name": "Firefox Nightly",
+    "browser_build_number": "20170105030229",
+    "os_version": "10",
+    "cpu_architecture": "amd64",
+    "engine_version": "53.0",
+    "engine_name": "Gecko",
+    "browser_name": "Firefox",
+    "browser_major": "53.0",
+    "notes": "Locomotion-driven only. Controllers unused.",
+    "headset": "HTC Vive",
+    "gamepads": [
+      "HTC Vive CV1 motion controllers"
+    ],
+    "support_for_positional": [
+      "yes"
+    ],
+    "support_for_roomscale": [
+      "none"
+    ],
+    "support_for_standing": [
+      "yes"
+    ],
+    "support_for_multiplayer": [
+      "none"
+    ],
+    "support_for_htc_vive_controllers": [
+      "none"
+    ]
+  },
+  {
+    "id": "reczdnmtZGyVDdgsK",
+    "report type": "success",
+    "scene": [
+      "recbTnW74F6KwVN5j"
+    ],
+    "date_submitted": "2017-01-05T07:13:00.000Z",
+    "reporter": [
+      "recCLC3wB4jpV1kKP"
+    ],
+    "os_name": "Windows",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2869.0 Safari/537.36",
+    "browser_version": "55.0.2869.0",
+    "webvr_browser_name": "Chromium",
+    "os_version": "10",
+    "cpu_architecture": "amd64",
+    "engine_version": "537.36",
+    "engine_name": "WebKit",
+    "browser_name": "Chrome",
+    "browser_major": "55",
+    "headset": "Oculus Rift CV1"
+  }
+]
